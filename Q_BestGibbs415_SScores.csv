@@ -1,0 +1,416 @@
+PUBCHEM_COMPOUND_CID,PUBCHEM_IUPAC_SYSTEMATIC_NAME,SMILES,SAscore,RAscore,Combined_Score
+8371,"2,3,5,6-tetrakis(chloranyl)cyclohexa-2,5-diene-1,4-dione",O=C1C(Cl)=C(Cl)C(=O)C(Cl)=C1Cl,2.591,0.952000022,0.783707574
+10141,"5,8-bis(oxidanyl)naphthalene-1,4-dione",O=C1C=CC(=O)c2c(O)ccc(O)c21,2.431,0.97299999,0.818292992
+10166,"(1R,3S)-9-methoxy-1,3-dimethyl-3,4-dihydro-1H-benzo[g]isochromene-5,10-dione",COc1cccc2c1C(=O)C1=C(C[C@H](C)O[C@@H]1C)C2=O,3.375,0.72299999,0.532208326
+10207,"3-(hydroxymethyl)-1,8-bis(oxidanyl)anthracene-9,10-dione",O=C1c2cccc(O)c2C(=O)c2c(O)cc(CO)cc21,2.31,0.990999997,0.846754442
+10208,"3-methyl-1,8-bis(oxidanyl)anthracene-9,10-dione",Cc1cc(O)c2c(c1)C(=O)c1cccc(O)c1C2=O,2.189,0.987999976,0.857474201
+68083,"furo[3,2-g]chromene-4,7,9-trione",O=C1c2ccoc2C(=O)c2oc(=O)ccc21,2.929,0.95599997,0.75109731
+68239,"2,3,5,6-tetrakis(fluoranyl)cyclohexa-2,5-diene-1,4-dione",O=C1C(F)=C(F)C(=O)C(F)=C1F,3.373,0.950999975,0.700252982
+69453,"2,3,5-tris(chloranyl)cyclohexa-2,5-diene-1,4-dione",O=C1C=C(Cl)C(=O)C(Cl)=C1Cl,2.883,0.950999975,0.752029647
+84442,"4-chloranyl-2,5-bis(oxidanyl)-3,6-bis(oxidanylidene)cyclohexa-1,4-diene-1-carbonitrile",N#CC1=C(O)C(=O)C(Cl)=C(O)C1=O,3.234,0.907999992,0.682614216
+87538,"4,5-bis(chloranyl)cyclohexa-3,5-diene-1,2-dione",O=C1C=C(Cl)C(Cl)=CC1=O,3.079,0.950999975,0.731318981
+132243,"(3S)-8-methoxy-3-methyl-11-oxidanyl-3,4-dihydro-2H-benzo[a]anthracene-1,7,12-trione",COc1ccc(O)c2c1C(=O)c1ccc3c(c1C2=O)C(=O)C[C@@H](C)C3,2.999,0.575999975,0.448063981
+135906,"8-ethenyl-2,3-dimethoxy-8-methyl-5-prop-1-en-2-yl-6,7-dihydro-5H-naphthalene-1,4-dione",C=CC1(C)CCC(C(=C)C)C2=C1C(=O)C(OC)=C(OC)C2=O,4.271,0.034000002,0.02164289
+146693,"3,5-bis(chloranyl)cyclohexa-3,5-diene-1,2-dione",O=C1C=C(Cl)C=C(Cl)C1=O,2.772,0.949000001,0.762152445
+146752,"3,4,6-tris(chloranyl)cyclohexa-3,5-diene-1,2-dione",O=C1C(=O)C(Cl)=C(Cl)C=C1Cl,3.058,0.952000022,0.73430935
+147824,"1-(hydroxymethyl)-7-methoxy-6-methyl-5,8-bis(oxidanylidene)-3,4-dihydro-1H-isoquinoline-2-carbaldehyde",COC1=C(C)C(=O)C2=C(C1=O)C(CO)N(C=O)CC2,3.73,0.568000019,0.39570668
+149148,"8-oxidanyl-5,6-bis(oxidanylidene)quinoline-7-carbonitrile",N#CC1=C(O)c2ncccc2C(=O)C1=O,2.78,0.943000019,0.75649557
+149159,"6,7-bis(chloranyl)quinoxaline-5,8-dione",O=C1C(Cl)=C(Cl)C(=O)c2nccnc21,2.73,0.952000022,0.769004462
+149160,"6,7-bis(chloranyl)quinazoline-5,8-dione",O=C1C(Cl)=C(Cl)C(=O)c2ncncc21,2.782,0.952000022,0.763504018
+149161,"6,7-bis(chloranyl)phthalazine-5,8-dione",O=C1C(Cl)=C(Cl)C(=O)c2cnncc21,2.926,0.943000019,0.741198015
+153833,"3,4-bis(chloranyl)cyclohexa-3,5-diene-1,2-dione",O=C1C=CC(Cl)=C(Cl)C1=O,3.038,0.959999979,0.742613317
+153834,"3,6-bis(chloranyl)cyclohexa-3,5-diene-1,2-dione",O=C1C(=O)C(Cl)=CC=C1Cl,3.21,0.940999985,0.709932211
+154045,"12-methylbenzo[a]anthracene-3,4-dione",Cc1c2ccccc2cc2ccc3c(c12)C=CC(=O)C3=O,2.443,0.973999977,0.817835314
+183883,"2-(2-ethylbutyl)-6-methoxy-cyclohexa-2,5-diene-1,4-dione",CCC(CC)CC1=CC(=O)C=C(OC)C1=O,2.878,0.80400002,0.636232016
+188865,"2,13-dimethylpentacyclo[12.8.0.03,12.04,9.017,22]docosa-1,3(12),4(9),5,10,13,15,17,19,21-decaene-7,8-dione",Cc1c2ccc3c(c2c(C)c2c1ccc1ccccc12)C=CC(=O)C3=O,2.604,0.223000005,0.183256448
+255964,"6,7-bis(bromanyl)quinoline-5,8-dione",O=C1C(Br)=C(Br)C(=O)c2ncccc21,2.598,0.967000008,0.795303784
+260516,"[2,4,5-triacetyloxy-3,6-bis(oxidanylidene)cyclohexa-1,4-dien-1-yl] ethanoate",CC(=O)OC1=C(OC(C)=O)C(=O)C(OC(C)=O)=C(OC(C)=O)C1=O,2.92,0.628000021,0.494026683
+260559,"2-chloranyl-3-[(4-oxidanylidenecyclohexa-2,5-dien-1-ylidene)amino]naphthalene-1,4-dione",O=C1C=CC(=NC2=C(Cl)C(=O)c3ccccc3C2=O)C=C1,2.83,0.114,0.09082
+269723,"5-oxidanyl-1H-quinoline-2,7,8-trione",O=C1C=C(O)c2ccc(=O)[nH]c2C1=O,2.836,0.762000024,0.606552019
+270570,"diethyl 3,6-bis(oxidanylidene)cyclohexa-1,4-diene-1,4-dicarboxylate",CCOC(=O)C1=CC(=O)C(C(=O)OCC)=CC1=O,2.602,0.941999972,0.774323977
+271155,"3-(2-bromanyl-3-methyl-but-1-enyl)-4-oxidanyl-naphthalene-1,2-dione",CC(C)C(Br)=CC1=C(O)c2ccccc2C(=O)C1=O,2.867,0.500999987,0.397070323
+271597,"3-chloranyl-1H-naphtho[2,3-h]quinoxaline-2,7,12-trione",O=C1c2ccccc2C(=O)c2c1ccc1nc(Cl)c(=O)[nH]c21,2.505,0.924000025,0.769486687
+272971,"N-[4-[3,6-bis(oxidanylidene)cyclohexa-1,4-dien-1-yl]sulfonylphenyl]ethanamide",CC(=O)Nc1ccc(S(=O)(=O)C2=CC(=O)C=CC2=O)cc1,2.381,0.985000014,0.833857234
+280615,"7-bromanyl-6-methoxy-2-methyl-quinoline-5,8-dione",COC1=C(Br)C(=O)c2nc(C)ccc2C1=O,2.674,0.922999978,0.751321982
+293262,"2,5-diethanoyl-3,6-diphenyl-cyclohexa-2,5-diene-1,4-dione",CC(=O)C1=C(c2ccccc2)C(=O)C(C(C)=O)=C(c2ccccc2)C1=O,2.378,0.647000015,0.547937124
+301208,"1,4,4a,12a-tetrahydrotetracene-5,6,11,12-tetrone",O=C1C2=C(C(=O)c3ccccc31)C(=O)C1CC=CCC1C2=O,3.399,0.335000008,0.245703895
+315283,"[4-acetyloxy-2,5-bis(chloranyl)-3,6-bis(oxidanylidene)cyclohexa-1,4-dien-1-yl] ethanoate",CC(=O)OC1=C(Cl)C(=O)C(OC(C)=O)=C(Cl)C1=O,3.073,0.870999992,0.67037966
+315743,"2-(3-methylbutylsulfanyl)naphthalene-1,4-dione",CC(C)CCSC1=CC(=O)c2ccccc2C1=O,2.379,0.964999974,0.817140533
+323616,"N-[2,5-bis(chloranyl)-3,6-bis(oxidanylidene)-4-(propanoylamino)cyclohexa-1,4-dien-1-yl]propanamide",CCC(=O)NC1=C(Cl)C(=O)C(NC(=O)CC)=C(Cl)C1=O,2.803,0.994000018,0.794868681
+323877,"N-[2,4,5-tris(chloranyl)-3,6-bis(oxidanylidene)cyclohexa-1,4-dien-1-yl]propanamide",CCC(=O)NC1=C(Cl)C(=O)C(Cl)=C(Cl)C1=O,2.766,0.991999984,0.797347543
+335007,"2-ethanoyl-5-methoxy-3,6-bis(oxidanylidene)cyclohexa-1,4-diene-1-carbonitrile",COC1=CC(=O)C(C(C)=O)=C(C#N)C1=O,3.008,0.500999987,0.389221323
+336581,"1-oxidanyl-2-trimethylsilyl-anthracene-9,10-dione",C[Si](C)(C)c1ccc2c(c1O)C(=O)c1ccccc1C2=O,2.486,0.796999991,0.665406437
+337849,"N-[9,10-bis(oxidanylidene)anthracen-2-yl]-2,2,2-tris(fluoranyl)ethanamide",O=C1c2ccccc2C(=O)c2cc(NC(=O)C(F)(F)F)ccc21,2.054,0.977999985,0.86346532
+341026,"4,9-dimethoxy-8-oxidanyl-benzo[f][1,3]benzodioxole-5,6-dione",COc1c2c(c(OC)c3c1C(=O)C(=O)C=C3O)OCO2,2.953,0.476000011,0.372708009
+341626,"N-[2,4,5,8-tetrakis(oxidanylidene)-1H-quinazolin-6-yl]ethanamide",CC(=O)NC1=CC(=O)c2[nH]c(=O)[nH]c(=O)c2C1=O,2.89,0.893999994,0.706259995
+346025,"2,3,5-tris(chloranyl)-6-phenyl-cyclohexa-2,5-diene-1,4-dione",O=C1C(Cl)=C(Cl)C(=O)C(c2ccccc2)=C1Cl,2.386,0.93599999,0.791855991
+347386,"N-[4-acetamido-2,5-bis(chloranyl)-3,6-bis(oxidanylidene)cyclohexa-1,4-dien-1-yl]ethanamide",CC(=O)NC1=C(Cl)C(=O)C(NC(C)=O)=C(Cl)C1=O,2.791,0.98299998,0.787382984
+351760,"3H-phenanthrene-4,9,10-trione",O=C1CC=CC2=C1c1ccccc1C(=O)C2=O,2.715,0.916999996,0.742260552
+354045,"2,2,2-tris(fluoranyl)-N-[2,4,5,8-tetrakis(oxidanylidene)-1H-quinazolin-6-yl]ethanamide",O=C1C=C(NC(=O)C(F)(F)F)C(=O)c2c1[nH]c(=O)[nH]c2=O,3.037,0.883000016,0.683147679
+354771,"6-bromanyl-1H-quinazoline-2,4,5,8-tetrone",O=C1C=C(Br)C(=O)c2c1[nH]c(=O)[nH]c2=O,2.937,0.528999984,0.415147432
+356350,"dimethyl 4-methoxy-3,6-bis(oxidanylidene)cyclohexa-1,4-diene-1,2-dicarboxylate",COC(=O)C1=C(C(=O)OC)C(=O)C(OC)=CC1=O,2.726,0.68900001,0.55686512
+359306,"benzo[7]annulene-1,4,7-trione",O=C1C=CC(=O)c2ccc(=O)ccc21,2.347,0.968999982,0.823972985
+363524,"2-chloranyl-6-methoxy-7-octyl-quinoline-5,8-dione",CCCCCCCCC1=C(OC)C(=O)c2ccc(Cl)nc2C1=O,2.648,0.875999987,0.715594656
+368857,"6-phenylsulfanylbenzo[7]annulene-1,4,7-trione",O=C1C=CC(=O)c2cc(Sc3ccccc3)c(=O)ccc21,2.513,0.984000027,0.818578689
+373411,"2,3-dimethoxy-6,8-dimethyl-benzo[7]annulene-1,4,7-trione",COC1=C(OC)C(=O)c2cc(C)c(=O)c(C)cc2C1=O,2.662,0.976000011,0.795765342
+375762,"2,3-dimethoxy-6,8-bis(methylsulfanyl)benzo[7]annulene-1,4,7-trione",COC1=C(OC)C(=O)c2cc(SC)c(=O)c(SC)cc2C1=O,3.073,0.755999982,0.581867986
+388027,"2,5-diethanoylthieno[3,2-f][1]benzothiole-4,8-dione",CC(=O)c1cc2c(s1)C(=O)c1scc(C(C)=O)c1C2=O,3.048,0.64200002,0.495909348
+392895,"2,7-diethanoylbenzo[f][1]benzothiole-4,9-dione",CC(=O)c1ccc2c(c1)C(=O)c1sc(C(C)=O)cc1C2=O,2.463,0.898999989,0.752862546
+404191,"methyl 5-ethyl-2-oxidanyl-6,11-bis(oxidanylidene)benzo[b]carbazole-1-carboxylate",CCn1c2c(c3c(C(=O)OC)c(O)ccc31)C(=O)c1ccccc1C2=O,2.535,0.88499999,0.734058325
+406184,"2,3,5-tris(chloranyl)-6-(2-oxidanylidene-1,3-dithiol-4-yl)cyclohexa-2,5-diene-1,4-dione",O=C1C(Cl)=C(Cl)C(=O)C(c2csc(=O)s2)=C1Cl,3.464,0.828999996,0.602038219
+438025,"dimethyl 1,4-bis(oxidanylidene)naphthalene-2,3-dicarboxylate",COC(=O)C1=C(C(=O)OC)C(=O)c2ccccc2C1=O,2.254,0.753000021,0.648082018
+442750,"6-methyl-2-(3-methylbut-2-enyl)-1,3,8-tris(oxidanyl)anthracene-9,10-dione",CC(C)=CCc1c(O)cc2c(c1O)C(=O)c1c(O)cc(C)cc1C2=O,2.756,0.819000006,0.659204005
+451422,"5-methoxy-6-methyl-7,8-bis(oxidanylidene)isoquinoline-1-carbonitrile",COC1=C(C)C(=O)C(=O)c2c1ccnc2C#N,2.986,0.474999994,0.370183329
+521223,"2,3-dihydronaphthalene-1,4,5,8-tetrone",O=C1C=CC(=O)C2=C1C(=O)CCC2=O,2.84,0.768000007,0.610986672
+558295,"4-[2,5-dimethyl-6-oxidanyl-3,4-bis(oxidanylidene)cyclohexa-1,5-dien-1-yl]-3,6-dimethyl-5-oxidanyl-cyclohexa-3,5-diene-1,2-dione",CC1=C(O)C(C2=C(C)C(=O)C(=O)C(C)=C2O)=C(C)C(=O)C1=O,3.027,0.093000002,0.072054335
+607110,"ethyl 4,5,6-tris(oxidanylidene)-1H-benzo[h]quinoline-3-carboxylate",CCOC(=O)c1c[nH]c2c(c1=O)C(=O)C(=O)c1ccccc1-2,2.492,0.825999975,0.689067535
+612645,"5,6-bis(chloranyl)-2,1,3-benzoxadiazole-4,7-dione",O=C1C(Cl)=C(Cl)C(=O)c2nonc21,3.119,0.930999994,0.711801218
+617701,"1,4-bis(oxidanyl)-2-propyl-anthracene-9,10-dione",CCCc1cc(O)c2c(c1O)C(=O)c1ccccc1C2=O,2.204,0.862999976,0.747549757
+619491,"naphtho[2,3-g][2,1,3]benzoxadiazole-6,11-dione",O=C1c2ccccc2C(=O)c2c1ccc1nonc21,2.294,0.870999992,0.745769549
+736158,"4-oxidanyl-3-[1-oxidanyl-3,4-bis(oxidanylidene)naphthalen-2-yl]naphthalene-1,2-dione",O=C1C(=O)c2ccccc2C(O)=C1C1=C(O)c2ccccc2C(=O)C1=O,2.317,0.226999998,0.193782332
+823103,"[4-oxidanyl-5,8-bis(oxidanylidene)naphthalen-1-yl] ethanoate",CC(=O)Oc1ccc(O)c2c1C(=O)C=CC2=O,2.445,0.976999998,0.820137221
+849736,"3-[(4-methoxyphenyl)methyl]benzo[f]benzotriazole-4,9-dione",COc1ccc(Cn2nnc3c2C(=O)c2ccccc2C3=O)cc1,2.204,0.936999977,0.811650202
+1382505,"2-methyl-3-piperidin-1-ylcarbonyl-benzo[f][1]benzofuran-4,9-dione",Cc1oc2c(c1C(=O)N1CCCCC1)C(=O)c1ccccc1C2=O,2.32,0.843999982,0.720213318
+1530613,"11,17-diazatetracyclo[8.7.0.03,8.011,16]heptadeca-1(10),3,5,7,12,14,16-heptaene-2,9-dione",O=C1c2ccccc2C(=O)c2c1nc1ccccn21,2.246,0.90200001,0.77712312
+1902501,"ethyl 2-methyl-4,5-bis(oxidanylidene)benzo[g][1]benzofuran-3-carboxylate",CCOC(=O)c1c(C)oc2c1C(=O)C(=O)c1ccccc1-2,2.341,0.797999978,0.679097981
+1911832,"1,7-bis(oxidanidyl)-[1,2,5]oxadiazolo[3,4-f][2,1,3]benzoxadiazole-1,7-diium-4,8-dione",O=C1c2no[n+]([O-])c2C(=O)c2c1no[n+]2[O-],4.131,0.89200002,0.581683124
+2168381,"3,7-bis(oxidanidyl)-[1,2,5]oxadiazolo[3,4-f][2,1,3]benzoxadiazole-3,7-diium-4,8-dione",O=C1c2no[n+]([O-])c2C(=O)c2no[n+]([O-])c21,4.18,0.869000018,0.561953345
+2747933,"dimethyl 5,8-bis(oxidanylidene)naphthalene-2,3-dicarboxylate",COC(=O)c1cc2c(cc1C(=O)OC)C(=O)C=CC2=O,2.369,0.962000012,0.815669122
+2839610,"4-[2,4-bis(oxidanylidene)pentan-3-yl]-3-chloranyl-naphthalene-1,2-dione",CC(=O)C(C(C)=O)C1=C(Cl)C(=O)C(=O)c2ccccc21,2.733,0.810000002,0.654030002
+3405711,"2,6-bis(bromanyl)-3-chloranyl-5-methyl-cyclohexa-2,5-diene-1,4-dione",CC1=C(Br)C(=O)C(Br)=C(Cl)C1=O,3.242,0.97299999,0.730614881
+3431482,"2,6-bis(chloranyl)-3,5-bis(fluoranyl)cyclohexa-2,5-diene-1,4-dione",O=C1C(F)=C(Cl)C(=O)C(Cl)=C1F,3.37,0.958000004,0.70572667
+3483941,"N-ethyl-1-ethylsulfanyl-9,10-bis(oxidanylidene)anthracene-2-carboxamide",CCNC(=O)c1ccc2c(c1SCC)C(=O)c1ccccc1C2=O,2.338,0.962000012,0.818982677
+3503849,"2,5-diazidocyclohexa-2,5-diene-1,4-dione",[N-]=[N+]=NC1=CC(=O)C(N=[N+]=[N-])=CC1=O,4.201,0.82099998,0.528997654
+3538931,"diethyl 2,5-bis(chloranyl)-3,6-bis(oxidanylidene)cyclohexa-1,4-diene-1,4-dicarboxylate",CCOC(=O)C1=C(Cl)C(=O)C(C(=O)OCC)=C(Cl)C1=O,2.83,0.851000011,0.677963342
+3678565,"2-(7,8-dimethoxy-3,4-dihydro-2H-chromen-3-yl)-6-oxidanyl-cyclohexa-2,5-diene-1,4-dione",COc1ccc2c(c1OC)OCC(C1=CC(=O)C=C(O)C1=O)C2,3.349,0.159999996,0.118239997
+4107102,"3,5,6,7,8-pentakis(fluoranyl)-4-oxidanyl-naphthalene-1,2-dione",O=C1C(=O)c2c(F)c(F)c(F)c(F)c2C(O)=C1F,3.081,0.634000003,0.487405114
+4345463,"N-[9,10-bis(oxidanylidene)anthracen-1-yl]pyridine-4-carboxamide",O=C(Nc1cccc2c1C(=O)c1ccccc1C2=O)c1ccncc1,1.959,0.990999997,0.885403441
+4401474,"6-azido-7-chloranyl-quinoline-5,8-dione",[N-]=[N+]=NC1=C(Cl)C(=O)c2ncccc2C1=O,3.116,0.160999998,0.12314711
+4403486,"2,5-diazido-3,6-diphenyl-cyclohexa-2,5-diene-1,4-dione",[N-]=[N+]=NC1=C(c2ccccc2)C(=O)C(N=[N+]=[N-])=C(c2ccccc2)C1=O,3.116,0.186000004,0.142269337
+4553955,"6,7-diazidoquinoline-5,8-dione",[N-]=[N+]=NC1=C(N=[N+]=[N-])C(=O)c2ncccc2C1=O,3.545,0.448000014,0.321315565
+4555401,"N-methyl-N-[2,5,6-tris[methanoyl(methyl)amino]-3,4-bis(oxidanylidene)cyclohexa-1,5-dien-1-yl]methanamide",CN(C=O)C1=C(N(C)C=O)C(N(C)C=O)=C(N(C)C=O)C(=O)C1=O,4.004,0.64200002,0.42771468
+4866719,"2,5-bis(oxidanyl)-3,6-bis(oxidanylidene)cyclohexa-1,4-diene-1,4-dicarbonitrile",N#CC1=C(O)C(=O)C(C#N)=C(O)C1=O,3.433,0.851999998,0.621675999
+5158768,"2,3-bis(chloranyl)-5,6-bis(methylsulfanyl)cyclohexa-2,5-diene-1,4-dione",CSC1=C(SC)C(=O)C(Cl)=C(Cl)C1=O,3.435,0.513000011,0.374205008
+8235946,"[(2R)-1-[[9,10-bis(oxidanylidene)anthracen-2-yl]amino]-1-oxidanylidene-propan-2-yl] ethanoate",CC(=O)O[C@H](C)C(=O)Nc1ccc2c(c1)C(=O)c1ccccc1C2=O,2.43,0.989000022,0.831858908
+9794096,"5,8-bis(oxidanylidene)quinoline-2-carbaldehyde",O=Cc1ccc2c(n1)C(=O)C=CC2=O,2.745,0.916000009,0.738397785
+9920809,"methyl 5,6-bis(oxidanylidene)naphthalene-2-carboxylate",COC(=O)c1ccc2c(c1)C=CC(=O)C2=O,2.19,0.992999971,0.861703308
+9970432,"2,3,5-tris(chloranyl)-6-ethylsulfanyl-cyclohexa-2,5-diene-1,4-dione",CCSC1=C(Cl)C(=O)C(Cl)=C(Cl)C1=O,3.138,0.93900001,0.715935341
+9970450,"(1R,3R)-1,3-dimethyl-1,6-dihydrobenzo[g]isochromene-4,5,9,10-tetrone",C[C@H]1O[C@H](C)C2=C(C(=O)C3=C(C(=O)C=CC3)C2=O)C1=O,4.35,0.275000006,0.172638893
+9993260,"3,7-dimethyl-1,9-dihydropyrido[3,2-g]quinoline-2,5,8,10-tetrone",Cc1cc2c([nH]c1=O)C(=O)c1[nH]c(=O)c(C)cc1C2=O,2.863,0.947000027,0.750971021
+9994115,"2,3,5-tris(chloranyl)-6-propylsulfanyl-cyclohexa-2,5-diene-1,4-dione",CCCSC1=C(Cl)C(=O)C(Cl)=C(Cl)C1=O,3.072,0.961000025,0.739756464
+10016160,"[7-methyl-5,8-bis(oxidanylidene)-2,3-dihydro-1H-pyrrolo[1,2-a]benzimidazol-3-yl] propanoate",CCC(=O)OC1CCn2c1nc1c2C(=O)C(C)=CC1=O,3.559,0.855000019,0.611895014
+10019760,"2,3,5-tris(chloranyl)-6-(2-methoxyphenoxy)cyclohexa-2,5-diene-1,4-dione",COc1ccccc1OC1=C(Cl)C(=O)C(Cl)=C(Cl)C1=O,2.508,0.915000021,0.761686685
+10040073,"(3aS,5S,9bS)-7,8-dimethoxy-5-methyl-3,3a,5,9b-tetrahydrofuro[3,2-c]isochromene-2,6,9-trione",COC1=C(OC)C(=O)C2=C(C1=O)[C@H](C)O[C@H]1CC(=O)O[C@@H]21,4.172,0.131999999,0.085477333
+10040577,"5-methoxy-6-[(1R)-4-methyl-1-oxidanyl-pent-3-enyl]-8-oxidanyl-naphthalene-1,4-dione",COc1c([C@H](O)CC=C(C)C)cc(O)c2c1C(=O)C=CC2=O,3.423,0.751999974,0.54954487
+10042743,"3-methyl-4a,8,12b-tris(oxidanyl)-4H-benzo[a]anthracene-1,7,12-trione",CC1=CC(=O)C2(O)C3=C(C=CC2(O)C1)C(=O)c1c(O)cccc1C3=O,4.098,0.479999989,0.314773326
+10043231,"3-ethanoyl-5,7-dimethoxy-2-(2-oxidanylpentyl)naphthalene-1,4-dione",CCCC(O)CC1=C(C(C)=O)C(=O)c2c(OC)cc(OC)cc2C1=O,3.152,0.742999971,0.565340422
+10060421,"6-pentoxyquinoline-5,8-dione",CCCCCOC1=CC(=O)c2ncccc2C1=O,2.35,0.513999999,0.436899999
+10061660,"(2R)-5-methoxy-2-prop-1-en-2-yl-2,3-dihydrobenzo[f][1]benzofuran-4,9-dione",C=C(C)[C@H]1CC2=C(O1)C(=O)c1cccc(OC)c1C2=O,3.247,0.805000007,0.604018339
+10063577,"2,3,5-tris(chloranyl)-6-phenoxy-cyclohexa-2,5-diene-1,4-dione",O=C1C(Cl)=C(Cl)C(=O)C(Oc2ccccc2)=C1Cl,2.472,0.901000023,0.753636464
+10086578,"8-methoxy-2-(2-methylprop-1-enyl)-1-oxidanyl-anthracene-9,10-dione",COc1cccc2c1C(=O)c1c(ccc(C=C(C)C)c1O)C2=O,2.425,0.93900001,0.790325009
+10088004,"methyl 2-[(1R,3R)-6-methoxy-1-methyl-5,10-bis(oxidanylidene)-3,4-dihydro-1H-benzo[g]isochromen-3-yl]ethanoate",COC(=O)C[C@H]1CC2=C(C(=O)c3cccc(OC)c3C2=O)[C@@H](C)O1,3.425,0.773999989,0.565449992
+10105999,"N-[2-cyano-4,7-bis(oxidanylidene)-1,3-benzothiazol-6-yl]ethanamide",CC(=O)NC1=CC(=O)c2nc(C#N)sc2C1=O,3.303,0.985000014,0.732949455
+10107508,"2-methyl-3-(3-oxidanylbutan-2-ylsulfanyl)naphthalene-1,4-dione",CC1=C(SC(C)C(C)O)C(=O)c2ccccc2C1=O,3.4,0.703999996,0.516266664
+10107940,"3-butyl-2-methoxy-5-(phenylmethyl)cyclohexa-2,5-diene-1,4-dione",CCCCC1=C(OC)C(=O)C=C(Cc2ccccc2)C1=O,2.501,0.84799999,0.706572436
+10131030,"3,5-dimethyl-2-[oxidanyl(pyridin-3-yl)methyl]cyclohexa-2,5-diene-1,4-dione",CC1=CC(=O)C(C(O)c2cccnc2)=C(C)C1=O,3.193,0.870999992,0.658766327
+10221279,"2-[2,3-bis(oxidanyl)propylsulfanyl]-3-methyl-naphthalene-1,4-dione",CC1=C(SCC(O)CO)C(=O)c2ccccc2C1=O,2.983,0.920000017,0.717293346
+10245274,"8-(1H-indol-3-yl)-2-methoxy-6-methyl-naphthalene-1,4-dione",COC1=CC(=O)c2cc(C)cc(-c3c[nH]c4ccccc34)c2C1=O,2.478,0.578000009,0.483079563
+10262745,"2-ethanoyl-6-methyl-5,8-dihydronaphthalene-1,4-dione",CC(=O)C1=CC(=O)C2=C(CC=C(C)C2)C1=O,3.355,0.677999973,0.50058998
+10263857,"3,6-dimethyl-5-[(Z)-pent-3-enyl]-1-benzofuran-4,7-dione",C/C=C\CCC1=C(C)C(=O)c2occ(C)c2C1=O,3.249,0.754999995,0.566333885
+10265148,"3-(cyclohexylmethyl)-4-oxidanyl-naphthalene-1,2-dione",O=C1C(=O)c2ccccc2C(O)=C1CC1CCCCC1,2.335,0.856000006,0.729026672
+10265291,"ethyl 1,4-bis(oxidanylidene)-6,7,8,9-tetrahydropyrido[1,2-a]indole-10-carboxylate",CCOC(=O)c1c2c(n3c1CCCC3)C(=O)C=CC2=O,2.726,0.88499999,0.715276659
+10266725,"2-[tert-butyl(dimethyl)silyl]-6-phenyl-cyclohexa-2,5-diene-1,4-dione",CC(C)(C)[Si](C)(C)C1=CC(=O)C=C(c2ccccc2)C1=O,2.818,0.698000014,0.557004011
+10313901,"2,3,5-tris(chloranyl)-6-phenylsulfanyl-cyclohexa-2,5-diene-1,4-dione",O=C1C(Cl)=C(Cl)C(=O)C(Sc2ccccc2)=C1Cl,2.619,0.865999997,0.710216219
+10314740,"6-chloranyl-5,8-bis(oxidanyl)-7-(3-oxidanylphenoxy)naphthalene-1,4-dione",O=C1C=CC(=O)c2c(O)c(Oc3cccc(O)c3)c(Cl)c(O)c21,2.75,0.93599999,0.753999992
+10332243,"[1,6-dimethyl-4,7-bis(oxidanylidene)benzimidazol-2-yl]methyl ethanoate",CC(=O)OCc1nc2c(n1C)C(=O)C(C)=CC2=O,2.819,0.698000014,0.556926455
+10332818,"ethyl 3-methyl-4-oxidanyl-5,8-bis(oxidanylidene)naphthalene-2-carboxylate",CCOC(=O)c1cc2c(c(O)c1C)C(=O)C=CC2=O,2.488,0.977999985,0.816303988
+10333648,"(1R,3S)-3-methyl-1,7,9-tris(oxidanyl)-3,4-dihydro-1H-benzo[g]isochromene-5,10-dione",C[C@H]1CC2=C(C(=O)c3c(O)cc(O)cc3C2=O)[C@H](O)O1,3.745,0.202000007,0.140390005
+10335508,"1-heptyl-2-methyl-9H-carbazole-3,4-dione",CCCCCCCC1=C(C)C(=O)C(=O)c2c1[nH]c1ccccc21,2.513,0.890999973,0.741212977
+10335762,"1,3-dimethoxy-6-methyl-2,5-bis(oxidanyl)anthracene-9,10-dione",COc1cc2c(c(OC)c1O)C(=O)c1ccc(C)c(O)c1C2=O,2.423,0.787999988,0.663408434
+10352532,"1-methyl-5-oxidanyl-3,4-dihydroisoquinoline-6,7-dione",CC1=NCCC2=C(O)C(=O)C(=O)C=C12,3.425,0.754000008,0.550838895
+10355530,"4,5-bis(bromanyl)cyclohexa-3,5-diene-1,2-dione",O=C1C=C(Br)C(Br)=CC1=O,2.985,0.927999973,0.723324424
+10357528,"dimethyl 1,4,7-tris(oxidanylidene)benzo[7]annulene-6,8-dicarboxylate",COC(=O)c1cc2c(cc(C(=O)OC)c1=O)C(=O)C=CC2=O,2.56,0.963,0.79608
+10378826,"9,9-dimethyl-10H-naphtho[1,2-f][1]benzofuran-7,11-dione",CC1(C)CC2=C(O1)C(=O)c1ccc3ccccc3c1C2=O,2.593,0.535000026,0.440305022
+10382195,"2,3,5-tris(chloranyl)-6-(4-methylphenyl)sulfanyl-cyclohexa-2,5-diene-1,4-dione",Cc1ccc(SC2=C(Cl)C(=O)C(Cl)=C(Cl)C2=O)cc1,2.644,0.958999991,0.78382266
+10382501,"(4Z)-7-butyl-6-methoxy-4-(phenylmethylidene)-1H-isochromene-5,8-dione",CCCCC1=C(OC)C(=O)C2=C(COC/C2=C\c2ccccc2)C1=O,2.989,0.425999999,0.331853999
+10402067,"benzo[b]thioxanthene-6,11,12-trione",O=C1c2ccccc2C(=O)c2c1sc1ccccc1c2=O,2.166,0.839999974,0.731173311
+10403278,"10-butyl-3-methyl-pyrimido[4,5-b]quinoline-2,4,6,9-tetrone",CCCCn1c2nc(=O)n(C)c(=O)c-2cc2c1C(=O)C=CC2=O,2.908,0.697000027,0.549236021
+10404609,"2,3,5-tris(chloranyl)-6-(4-methoxyphenoxy)cyclohexa-2,5-diene-1,4-dione",COc1ccc(OC2=C(Cl)C(=O)C(Cl)=C(Cl)C2=O)cc1,2.45,0.948000014,0.795266678
+10424185,"5,6,7-trimethoxybenzo[f][1]benzofuran-4,9-dione",COc1cc2c(c(OC)c1OC)C(=O)c1ccoc1C2=O,2.566,0.953000009,0.787178007
+10425242,"5,8-dimethoxy-4-oxidanyl-3-(3-oxidanylbutyl)naphthalene-1,2-dione",COc1ccc(OC)c2c1C(=O)C(=O)C(CCC(C)O)=C2O,3.101,0.458999991,0.351848993
+10445298,"[6-methyl-5,8-bis(oxidanylidene)-2,3-dihydro-1H-pyrrolo[1,2-a]benzimidazol-3-yl] ethanoate",CC(=O)OC1CCn2c1nc1c2C(=O)C=C(C)C1=O,3.496,0.758000016,0.547781345
+10467268,"(4Z)-4-ethylidene-6,7-dimethoxy-1H-isochromene-5,8-dione",C/C=C1\COCC2=C1C(=O)C(OC)=C(OC)C2=O,3.448,0.273000002,0.198744001
+10468093,"2-(4-hydroxyphenyl)-5-oxidanyl-naphthalene-1,4-dione",O=C1C(c2ccc(O)cc2)=CC(=O)c2c(O)cccc21,2.277,0.963999987,0.8272191
+10469288,"9-(phenylmethyl)carbazole-1,4-dione",O=C1C=CC(=O)c2c1c1ccccc1n2Cc1ccccc1,2.175,0.990999997,0.861619442
+10470278,"dimethyl 5-methoxy-1,4-bis(oxidanylidene)naphthalene-2,3-dicarboxylate",COC(=O)C1=C(C(=O)OC)C(=O)c2c(OC)cccc2C1=O,2.391,0.92900002,0.785417906
+10472401,"3-methyl-4a,8,12b-tris(oxidanyl)-3,4-dihydro-2H-benzo[a]anthracene-1,7,12-trione",CC1CC(=O)C2(O)C3=C(C=CC2(O)C1)C(=O)c1c(O)cccc1C3=O,4.212,0.037,0.023795111
+10489953,"6-azido-7-chloranyl-quinoxaline-5,8-dione",[N-]=[N+]=NC1=C(Cl)C(=O)c2nccnc2C1=O,3.401,0.209000006,0.153243449
+10490899,"2-[2-[(4S)-2,2,4-trimethyl-1,3-dioxolan-4-yl]ethyl]cyclohexa-2,5-diene-1,4-dione",CC1(C)OC[C@](C)(CCC2=CC(=O)C=CC2=O)O1,3.699,0.414999992,0.290546105
+10492380,"methyl 3,4-bis(oxidanylidene)-5-phenylmethoxy-cyclohexa-1,5-diene-1-carboxylate",COC(=O)C1=CC(=O)C(=O)C(OCc2ccccc2)=C1,2.371,0.774999976,0.656941646
+10520976,"2-(4-methylphenyl)sulfonyl-6-phenyl-cyclohexa-2,5-diene-1,4-dione",Cc1ccc(S(=O)(=O)C2=CC(=O)C=C(c3ccccc3)C2=O)cc1,2.341,0.474000007,0.403374006
+10521212,"6-azido-2-chloranyl-7-methoxy-3-phenyl-quinoxaline-5,8-dione",COC1=C(N=[N+]=[N-])C(=O)c2nc(-c3ccccc3)c(Cl)nc2C1=O,3.144,0.138999999,0.10588711
+10532917,"3,4-bis(chloranyl)-2-oxidanyl-5,6-bis(oxidanylidene)cyclohexa-1,3-diene-1-carbonitrile",N#CC1=C(O)C(Cl)=C(Cl)C(=O)C1=O,3.247,0.907999992,0.681302661
+10538738,"N-[7-chloranyl-5,8-bis(oxidanylidene)quinoxalin-6-yl]ethanamide",CC(=O)NC1=C(Cl)C(=O)c2nccnc2C1=O,2.743,0.981999993,0.791819328
+10560745,"6-methoxy-2-methyl-8-oxidanyl-naphthalene-1,4-dione",COc1cc(O)c2c(c1)C(=O)C=C(C)C2=O,2.352,0.958999991,0.814936882
+10566406,"ethyl (E)-3-[4-[(E)-3-ethoxy-3-oxidanylidene-prop-1-enyl]-3,6-bis(oxidanylidene)cyclohexa-1,4-dien-1-yl]prop-2-enoate",CCOC(=O)/C=C/C1=CC(=O)C(/C=C/C(=O)OCC)=CC1=O,3.084,0.89200002,0.685452459
+10612483,"5-methyl-5H-naphtho[3,2-c]isochromene-7,12-dione",CC1OC2=C(C(=O)c3ccccc3C2=O)c2ccccc21,2.868,0.411000013,0.325694677
+10616559,"propyl (E)-3-[3,6-bis(oxidanylidene)-4-[(E)-3-oxidanylidene-3-propoxy-prop-1-enyl]cyclohexa-1,4-dien-1-yl]prop-2-enoate",CCCOC(=O)/C=C/C1=CC(=O)C(/C=C/C(=O)OCCC)=CC1=O,3.128,0.91900003,0.701707578
+10638431,"6-methyl-4-phenyl-7-propan-2-yloxy-quinoline-5,8-dione",CC1=C(OC(C)C)C(=O)c2nccc(-c3ccccc3)c2C1=O,2.494,0.718999982,0.599645985
+10681608,"3-methoxy-4-(phenylcarbonyl)cyclohexa-3,5-diene-1,2-dione",COC1=C(C(=O)c2ccccc2)C=CC(=O)C1=O,2.513,0.986000001,0.820242446
+10681713,"2,5-bis(trifluoromethyl)cyclohexa-2,5-diene-1,4-dione",O=C1C=C(C(F)(F)F)C(=O)C=C1C(F)(F)F,3.107,0.879999995,0.673982219
+10687403,"2,3,5-tris(chloranyl)-6-octyl-cyclohexa-2,5-diene-1,4-dione",CCCCCCCCC1=C(Cl)C(=O)C(Cl)=C(Cl)C1=O,2.588,0.943000019,0.776612904
+10728832,"6,7-diazidoquinoxaline-5,8-dione",[N-]=[N+]=NC1=C(N=[N+]=[N-])C(=O)c2nccnc2C1=O,3.796,0.651000023,0.448756016
+10732302,"7-methoxy-5,8-bis(oxidanylidene)-3-phenyl-quinoxaline-2-carbonitrile",COC1=CC(=O)c2nc(-c3ccccc3)c(C#N)nc2C1=O,2.679,0.228,0.185465333
+10733119,"[7-butyl-5,8-bis(oxidanylidene)-2,3-dihydro-1H-pyrrolo[1,2-a]benzimidazol-3-yl] ethanoate",CCCCC1=CC(=O)c2nc3n(c2C1=O)CCC3OC(C)=O,3.564,0.559000015,0.399747122
+10776662,"(3S,4S)-3-methyl-4-oxidanyl-3,4-dihydro-1H-benzo[g]isochromene-5,10-dione",C[C@@H]1OCC2=C(C(=O)c3ccccc3C2=O)[C@@H]1O,3.412,0.143999994,0.105407995
+10782904,"2,3-bis(bromanyl)-5-(trifluoromethyl)cyclohexa-2,5-diene-1,4-dione",O=C1C=C(C(F)(F)F)C(=O)C(Br)=C1Br,3.318,0.824999988,0.612516658
+10826726,"7-methoxy-3-phenyl-1H-quinoxaline-2,5,8-trione",COC1=CC(=O)c2nc(-c3ccccc3)c(=O)[nH]c2C1=O,2.579,0.125,0.103069444
+10848652,"pentacyclo[8.8.0.02,7.03,17.013,18]octadeca-1(10),2,6,8,11,13(18),14,16-octaene-4,5-dione",O=C1C=c2ccc3ccc4cccc5c4c3c2=C5C1=O,2.883,0.88499999,0.699838326
+10848862,"N-[7-methyl-5,8-bis(oxidanylidene)-2,3-dihydro-1H-pyrrolo[1,2-a]benzimidazol-3-yl]ethanamide",CC(=O)NC1CCn2c1nc1c2C(=O)C(C)=CC1=O,3.434,0.887000024,0.647115796
+10854624,"8-methoxy-2-(4-methoxybutyl)-1-oxidanyl-anthracene-9,10-dione",COCCCCc1ccc2c(c1O)C(=O)c1c(OC)cccc1C2=O,2.264,0.958999991,0.82431377
+10859636,"8-(1H-indol-3-yl)-2-methoxy-naphthalene-1,4-dione",COC1=CC(=O)c2cccc(-c3c[nH]c4ccccc34)c2C1=O,2.361,0.294999987,0.250389433
+10860039,"methyl 1-methoxy-5,10-bis(oxidanylidene)-1H-benzo[g]isothiochromene-3-carboxylate",COC(=O)C1=CC2=C(C(=O)c3ccccc3C2=O)C(OC)S1,3.439,0.671000004,0.489159003
+10867330,"2,5,8-tris(oxidanylidene)-1H-quinoline-3-carbonitrile",N#Cc1cc2c([nH]c1=O)C(=O)C=CC2=O,2.886,0.963999987,0.761988434
+10881056,"ethyl 4,5,10-tris(oxidanylidene)-1H-pyrido[3,2-g]quinoline-3-carboxylate",CCOC(=O)c1c[nH]c2c(c1=O)C(=O)c1cccnc1C2=O,2.639,0.647000015,0.529174123
+10881284,"ethyl 1-(hydroxymethyl)-5-methoxy-6-methyl-7,8-bis(oxidanylidene)isoquinoline-3-carboxylate",CCOC(=O)c1cc2c(c(CO)n1)C(=O)C(=O)C(C)=C2OC,2.95,0.834999979,0.654083317
+10988822,"2-propyl-2H-benzo[g]chromene-5,10-dione",CCCC1C=CC2=C(O1)C(=O)c1ccccc1C2=O,3.203,0.676999986,0.511285434
+11012378,"methyl 4-[5,8-bis(oxidanylidene)quinoxalin-6-yl]-2,5-dimethyl-1H-pyrrole-3-carboxylate",COC(=O)c1c(C)[nH]c(C)c1C1=CC(=O)c2nccnc2C1=O,2.916,0.662,0.521067556
+11034514,"(1R,8S)-11-chloranylpentacyclo[6.6.6.02,7.09,14.015,20]icosa-2(7),4,9(14),10,12,15,17,19-octaene-3,6-dione",O=C1C=CC(=O)C2=C1[C@@H]1c3ccccc3[C@H]2c2cc(Cl)ccc21,4.033,0.022,0.014586
+11098660,"2,3,5-tris(chloranyl)-6-(phenylmethyl)cyclohexa-2,5-diene-1,4-dione",O=C1C(Cl)=C(Cl)C(=O)C(Cc2ccccc2)=C1Cl,2.45,0.916000009,0.768422229
+11099181,"1-[1,4-dimethoxy-5,8-bis(oxidanylidene)naphthalen-2-yl]ethyl propanoate",CCC(=O)OC(C)c1cc(OC)c2c(c1OC)C(=O)C=CC2=O,3.189,0.916000009,0.693208451
+11099502,"ethyl 9-methyl-4,5,7,10-tetrakis(oxidanylidene)-1,6-dihydropyrido[2,3-g]quinoline-3-carboxylate",CCOC(=O)c1c[nH]c2c(c1=O)C(=O)c1[nH]c(=O)cc(C)c1C2=O,3.033,0.797999978,0.61774065
+11105623,"naphthalene-2,3-dione",O=C1C=c2ccccc2=CC1=O,2.5,0.938000023,0.781666686
+11109259,"2,5-bis(oxidanyl)-3-(7-propyl-1H-indol-3-yl)cyclohexa-2,5-diene-1,4-dione",CCCc1cccc2c(C3=C(O)C(=O)C=C(O)C3=O)c[nH]c12,2.831,0.663999975,0.528912869
+11110827,"2-[(5-oxidanyl-4-oxidanylidene-pyran-2-yl)methoxy]anthracene-9,10-dione",O=C1c2ccccc2C(=O)c2cc(OCc3cc(=O)c(O)co3)ccc21,2.351,0.958000004,0.814193559
+11116956,"methyl 5-methoxy-3,4-bis(oxidanylidene)cyclohexa-1,5-diene-1-carboxylate",COC(=O)C1=CC(=O)C(=O)C(OC)=C1,2.701,0.897000015,0.727467012
+11118965,"2-butoxy-3-chloranyl-naphthalene-1,4-dione",CCCCOC1=C(Cl)C(=O)c2ccccc2C1=O,2.24,0.907000005,0.78203556
+11131260,"3-methoxy-1,6,8-tris(oxidanyl)-2-propan-2-yl-anthracene-9,10-dione",COc1cc2c(c(O)c1C(C)C)C(=O)c1c(O)cc(O)cc1C2=O,2.631,0.832000017,0.681223125
+11172933,"N-[2-methyl-5,8-bis(oxidanylidene)quinolin-7-yl]butanamide",CCCC(=O)NC1=CC(=O)c2ccc(C)nc2C1=O,2.516,0.991999984,0.824903098
+11184822,"6,7-dimethoxy-3-methyl-9H-carbazole-1,4-dione",COc1cc2[nH]c3c(c2cc1OC)C(=O)C(C)=CC3=O,2.458,0.940999985,0.788557987
+11197469,"5-[(2E)-3,7-dimethylocta-2,6-dienyl]-2,3-dimethoxy-cyclohexa-2,5-diene-1,4-dione",COC1=C(OC)C(=O)C(C/C=C(\C)CCC=C(C)C)=CC1=O,3.089,0.620999992,0.476858994
+11197993,"1,4-bis(oxidanyl)-2,3-bis(prop-2-enyl)anthracene-9,10-dione",C=CCc1c(O)c2c(c(O)c1CC=C)C(=O)c1ccccc1C2=O,2.676,0.609000027,0.495590689
+11198190,"2-bromanyl-5,7,8-trimethoxy-naphthalene-1,4-dione",COc1cc(OC)c2c(c1OC)C(=O)C(Br)=CC2=O,2.442,0.910000026,0.7641978
+11208850,"8-methoxy-2-[2,2,2-tris(fluoranyl)-1,1-bis(oxidanyl)ethyl]naphthalene-1,4-dione",COc1cccc2c1C(=O)C(C(O)(O)C(F)(F)F)=CC2=O,2.867,0.883000016,0.699826568
+11218355,"5-methoxy-2-oxidanyl-3-(3-oxidanylidenebutan-2-yl)cyclohexa-2,5-diene-1,4-dione",COC1=CC(=O)C(O)=C(C(C)C(C)=O)C1=O,3.491,0.514999986,0.372459434
+11230592,"3-bromanyl-2,5-bis(chloranyl)cyclohexa-2,5-diene-1,4-dione",O=C1C=C(Cl)C(=O)C(Br)=C1Cl,3.137,0.887000024,0.676386796
+11233273,"(2R,3R)-2-(3,4-dimethoxyphenyl)-7-methoxy-3-oxidanyl-3,4-dihydro-2H-chromene-5,8-dione",COC1=CC(=O)C2=C(O[C@H](c3ccc(OC)c(OC)c3)[C@H](O)C2)C1=O,3.461,0.086000003,0.06248378
+11278929,"3,5-dimethoxy-2-(7-methoxy-3,4-dihydro-2H-chromen-3-yl)cyclohexa-2,5-diene-1,4-dione",COC1=CC(=O)C(C2COc3cc(OC)ccc3C2)=C(OC)C1=O,3.241,0.213,0.159963
+11290102,"(1R,3S)-5,7-dimethoxy-1,3-dimethyl-10-oxidanyl-3,4-dihydro-1H-benzo[g]isochromene-6,9-dione",COC1=CC(=O)c2c(O)c3c(c(OC)c2C1=O)C[C@H](C)O[C@@H]3C,3.762,0.059,0.040893556
+11299816,"2,3,5-tris(chloranyl)-6-ethoxy-cyclohexa-2,5-diene-1,4-dione",CCOC1=C(Cl)C(=O)C(Cl)=C(Cl)C1=O,2.912,0.964999974,0.75999109
+11312378,"ethyl 5-(2-hydroxyethyl)-2,6-dimethyl-4,7-bis(oxidanylidene)-1,3-dihydroindene-2-carboxylate",CCOC(=O)C1(C)CC2=C(C1)C(=O)C(CCO)=C(C)C2=O,3.642,0.523999989,0.370176881
+11323170,"2,3,5-tris(chloranyl)-6-propan-2-yloxy-cyclohexa-2,5-diene-1,4-dione",CC(C)OC1=C(Cl)C(=O)C(Cl)=C(Cl)C1=O,2.95,0.936999977,0.733983315
+11357752,"(2R,4S)-2-ethanoyl-4-oxidanyl-3,4-dihydro-2H-benzo[g]chromene-5,10-dione",CC(=O)[C@H]1C[C@H](O)C2=C(O1)C(=O)c1ccccc1C2=O,3.55,0.57099998,0.409216652
+11370137,"8-methyl-3-(phenylmethyl)imidazo[4,5-g]quinoline-4,9-dione",Cc1ccnc2c1C(=O)c1ncn(Cc3ccccc3)c1C2=O,2.472,0.888999999,0.74359911
+11370556,"1-methoxy-3-methyl-8-oxidanyl-benzo[a]anthracene-7,12-dione",COc1cc(C)cc2ccc3c(c12)C(=O)c1cccc(O)c1C3=O,2.281,0.816999972,0.700713643
+11390150,"3,5-dimethyl-4-oxidanyl-6-(2-oxidanylidenepropyl)cyclohexa-3,5-diene-1,2-dione",CC(=O)CC1=C(C)C(O)=C(C)C(=O)C1=O,2.98,0.916000009,0.714480007
+11393317,"2,3,5-tris(chloranyl)-6-imidazo[1,2-a]pyrimidin-3-yl-cyclohexa-2,5-diene-1,4-dione",O=C1C(Cl)=C(Cl)C(=O)C(c2cnc3ncccn23)=C1Cl,3.067,0.89200002,0.687137348
+11402778,"2-methoxy-3-propylsulfanyl-naphthalene-1,4-dione",CCCSC1=C(OC)C(=O)c2ccccc2C1=O,2.481,0.802999973,0.670861867
+11403598,"3-[[tert-butyl(dimethyl)silyl]oxymethyl]-1-benzofuran-4,5-dione",CC(C)(C)[Si](C)(C)OCc1coc2c1C(=O)C(=O)C=C2,3.163,0.93900001,0.713327008
+11404549,"7-methyl-3-[(2-methyl-1,3-thiazol-4-yl)methyl]imidazo[4,5-g]quinoline-4,9-dione",Cc1cnc2c(c1)C(=O)c1ncn(Cc3csc(C)n3)c1C2=O,2.846,0.973999977,0.77422176
+11438591,"ethyl 5-butanoyl-3-methyl-4,7-bis(oxidanylidene)-1-benzothiophene-2-carboxylate",CCCC(=O)C1=CC(=O)c2sc(C(=O)OCC)c(C)c2C1=O,2.968,0.922999978,0.72117065
+11450025,"(2R,3R)-2-methoxy-3-phenyl-3,4-dihydro-2H-benzo[g]chromene-5,10-dione",CO[C@@H]1OC2=C(C[C@@H]1c1ccccc1)C(=O)c1ccccc1C2=O,3.216,0.202999994,0.153016884
+11457723,"3,6-bis(oxidanylidene)cyclohexa-1,4-diene-1-carbaldehyde",O=CC1=CC(=O)C=CC1=O,2.964,0.763000011,0.596496453
+11460859,"4-chloranyl-3,6-bis(oxidanylidene)-5-(4-oxidanyl-6-oxidanylidene-1H-pyrimidin-5-yl)cyclohexa-1,4-diene-1,2-dicarbonitrile",N#CC1=C(C#N)C(=O)C(c2c(O)nc[nH]c2=O)=C(Cl)C1=O,3.526,0.217999995,0.156814663
+11572689,"2-chloranyl-N-[2-methanoyl-5,8-bis(oxidanylidene)quinolin-7-yl]ethanamide",O=Cc1ccc2c(n1)C(=O)C(NC(=O)CCl)=CC2=O,2.954,0.989000022,0.774277129
+11586798,"N-[2-methanoyl-5,8-bis(oxidanylidene)quinolin-7-yl]ethanamide",CC(=O)NC1=CC(=O)c2ccc(C=O)nc2C1=O,2.825,0.916999996,0.731052774
+11593989,"7-(2-hydroxyethylsulfanyl)-6-methyl-quinoline-5,8-dione",CC1=C(SCCO)C(=O)c2ncccc2C1=O,2.743,0.958000004,0.772467337
+11616405,"(4bR)-4b,8,8-trimethyl-1-oxidanyl-2-propan-2-yl-6,7-dihydro-5H-fluorene-3,4-dione",CC(C)C1=C(O)C2=C(C(=O)C1=O)[C@]1(C)CCCC(C)(C)C1=C2,3.925,0.808000028,0.545400019
+11666582,"2,3-bis(2-trimethylsilylethynyl)cyclohexa-2,5-diene-1,4-dione",C[Si](C)(C)C#CC1=C(C#C[Si](C)(C)C)C(=O)C=CC1=O,3.616,0.964999974,0.684506648
+11722908,"6-(phenylsulfinyl)benzo[7]annulene-1,4,7-trione",O=C1C=CC(=O)c2cc(S(=O)c3ccccc3)c(=O)ccc21,3.211,0.931999981,0.703038653
+12051549,"(3S)-7-bromanyl-3-methyl-3,4-dihydroisochromene-1,5,8-trione",C[C@H]1CC2=C(C(=O)O1)C(=O)C(Br)=CC2=O,3.619,0.702000022,0.497718016
+12051589,"4-[3,5,7-tris(oxidanyl)-4-oxidanylidene-chromen-2-yl]cyclohexa-3,5-diene-1,2-dione",O=C1C=CC(c2oc3cc(O)cc(O)c3c(=O)c2O)=CC1=O,2.979,0.907000005,0.707560782
+12062623,"ethyl 3-methyl-4,7-bis(oxidanylidene)-5-propanoyl-1-benzothiophene-2-carboxylate",CCOC(=O)c1sc2c(c1C)C(=O)C(C(=O)CC)=CC2=O,3.005,0.841000021,0.653643905
+12194831,"4-ethanoylcyclohexa-3,5-diene-1,2-dione",CC(=O)C1=CC(=O)C(=O)C=C1,2.766,0.976000011,0.78448712
+12194832,"3,4-bis(oxidanylidene)cyclohexa-1,5-diene-1-carbonitrile",N#CC1=CC(=O)C(=O)C=C1,3.091,0.925999999,0.710859333
+12194833,"3,4-bis(oxidanylidene)cyclohexa-1,5-diene-1-carboxamide",NC(=O)C1=CC(=O)C(=O)C=C1,2.811,0.970000029,0.774814467
+12194843,"methyl 2-methoxy-3,4-bis(oxidanylidene)cyclohexa-1,5-diene-1-carboxylate",COC(=O)C1=C(OC)C(=O)C(=O)C=C1,2.912,0.976999998,0.769441776
+12250780,"2-(phenylsulfonyl)cyclohexa-2,5-diene-1,4-dione",O=C1C=CC(=O)C(S(=O)(=O)c2ccccc2)=C1,2.358,0.414000005,0.351532004
+12250781,"2-(4-methylphenyl)sulfonylcyclohexa-2,5-diene-1,4-dione",Cc1ccc(S(=O)(=O)C2=CC(=O)C=CC2=O)cc1,2.378,0.416000009,0.352305785
+12316586,"3-chloranyl-4-ethanoyl-naphthalene-1,2-dione",CC(=O)C1=C(Cl)C(=O)C(=O)c2ccccc21,2.37,0.860000014,0.729088901
+12316592,"3-chloranyl-4-decanoyl-naphthalene-1,2-dione",CCCCCCCCCC(=O)C1=C(Cl)C(=O)C(=O)c2ccccc21,2.36,0.851000011,0.722404454
+12316606,"3-bromanyl-4-(3-methylbutanoyl)naphthalene-1,2-dione",CC(C)CC(=O)C1=C(Br)C(=O)C(=O)c2ccccc21,2.555,0.809000015,0.66922279
+12318059,"4,5-bis(chloranyl)-2-(1H-indol-3-yl)-3,6-bis(oxidanylidene)cyclohexa-1,4-diene-1-carbonitrile",N#CC1=C(c2c[nH]c3ccccc23)C(=O)C(Cl)=C(Cl)C1=O,2.76,0.809000015,0.650795568
+12347912,"[6,7-dimethyl-4-oxidanyl-5,8-bis(oxidanylidene)naphthalen-2-yl] benzoate",CC1=C(C)C(=O)c2c(O)cc(OC(=O)c3ccccc3)cc2C1=O,2.261,0.963999987,0.828932877
+12353739,"3,4-bis(bromanyl)-6-tert-butyl-cyclohexa-3,5-diene-1,2-dione",CC(C)(C)C1=CC(Br)=C(Br)C(=O)C1=O,3.136,0.848999977,0.647503983
+12365765,"2,6-bis(sulfanylidene)-[1,3]dithiolo[4,5-f][1,3]benzodithiole-4,8-dione",O=C1c2sc(=S)sc2C(=O)c2sc(=S)sc21,4.058,0.386000007,0.254845783
+12365776,"2-sulfanylidenebenzo[f][1,3]benzodithiole-4,9-dione",O=C1c2ccccc2C(=O)c2sc(=S)sc21,2.806,0.800999999,0.640265999
+12389896,"2,5-bis(chloranyl)-3-methyl-6-(3-phenylmethoxyprop-1-ynyl)cyclohexa-2,5-diene-1,4-dione",CC1=C(Cl)C(=O)C(C#CCOCc2ccccc2)=C(Cl)C1=O,2.862,0.855000019,0.678110015
+12429819,"diethyl 1,4-bis(oxidanylidene)naphthalene-2,3-dicarboxylate",CCOC(=O)C1=C(C(=O)OCC)C(=O)c2ccccc2C1=O,2.248,0.731999993,0.630495994
+12488296,"2-methyl-5-[oxidanyl(diphenyl)methyl]cyclohexa-2,5-diene-1,4-dione",CC1=CC(=O)C(C(O)(c2ccccc2)c2ccccc2)=CC1=O,2.468,0.885999978,0.741483537
+12528130,"4,5-dipropoxycyclohexa-3,5-diene-1,2-dione",CCCOC1=CC(=O)C(=O)C=C1OCCC,2.699,0.896000028,0.726855134
+12598823,"dimethyl 3,6-bis(oxidanylidene)cyclohexa-1,4-diene-1,2-dicarboxylate",COC(=O)C1=C(C(=O)OC)C(=O)C=CC1=O,2.581,0.906000018,0.746846015
+12623938,"dimethyl 9,10-bis(oxidanylidene)phenanthrene-1,8-dicarboxylate",COC(=O)c1cccc2c1C(=O)C(=O)c1c(C(=O)OC)cccc1-2,2.211,0.796000004,0.688893781
+12660251,"2,3,5,6-tetrakis(chloranyl)naphthalene-1,4-dione",O=C1C(Cl)=C(Cl)C(=O)c2c1ccc(Cl)c2Cl,2.478,0.899999976,0.75219998
+12683184,"2,5-bis(chloranyl)-3-methyl-6-(3-oxidanylprop-1-ynyl)cyclohexa-2,5-diene-1,4-dione",CC1=C(Cl)C(=O)C(C#CCO)=C(Cl)C1=O,3.345,0.975000024,0.720958351
+12683188,"2,5-bis(chloranyl)-3,6-bis(3-methoxyprop-1-ynyl)cyclohexa-2,5-diene-1,4-dione",COCC#CC1=C(Cl)C(=O)C(C#CCOC)=C(Cl)C1=O,3.656,0.92900002,0.654841792
+12710168,"pyrrolo[2,1-c][1,2,4]benzotriazine-6,9-dione",O=C1C=CC(=O)c2c1nnc1cccn21,2.783,0.954999983,0.765803876
+12808108,"ethyl 3-[4-methoxy-3,6-bis(oxidanylidene)cyclohexa-1,4-dien-1-yl]prop-2-ynoate",CCOC(=O)C#CC1=CC(=O)C(OC)=CC1=O,3.162,0.763000011,0.579710453
+12841633,"5-oxidanyl-2H-benzo[f]benzotriazole-4,9-dione",O=C1c2cccc(O)c2C(=O)c2n[nH]nc21,2.744,0.943000019,0.760267571
+12841634,"6-oxidanyl-2H-benzo[f]benzotriazole-4,9-dione",O=C1c2ccc(O)cc2C(=O)c2n[nH]nc21,2.742,0.947000027,0.76370291
+13375665,"6,7-dimethoxy-5,8-bis(oxidanylidene)naphthalene-2-carbonitrile",COC1=C(OC)C(=O)c2cc(C#N)ccc2C1=O,2.46,0.869000018,0.728028904
+13412776,"5-chloranyl-2,3-dimethoxy-cyclohexa-2,5-diene-1,4-dione",COC1=C(OC)C(=O)C(Cl)=CC1=O,2.822,0.859000027,0.685100244
+13412778,"2-chloranyl-7-methyl-5-oxidanyl-naphthalene-1,4-dione",Cc1cc(O)c2c(c1)C(=O)C(Cl)=CC2=O,2.524,0.975000024,0.80990002
+13412784,"2-chloranyl-7-methyl-8-oxidanyl-naphthalene-1,4-dione",Cc1ccc2c(c1O)C(=O)C(Cl)=CC2=O,2.546,0.938000023,0.776872464
+13464723,"N-[4-oxidanyl-5,8-bis(oxidanylidene)naphthalen-1-yl]ethanamide",CC(=O)Nc1ccc(O)c2c1C(=O)C=CC2=O,2.42,0.981999993,0.827062217
+13667794,"9-chloranyl-5,10-bis(oxidanyl)anthracene-1,4-dione",O=C1C=CC(=O)c2c1c(Cl)c1cccc(O)c1c2O,2.729,0.647000015,0.522704123
+13903860,"3-(hydroxymethyl)-5-methyl-cyclohexa-3,5-diene-1,2-dione",CC1=CC(=O)C(=O)C(CO)=C1,2.918,0.922999978,0.726298427
+14090071,"2,3,6,7-tetrakis(chloranyl)-5,8-bis(oxidanyl)naphthalene-1,4-dione",O=C1C(Cl)=C(Cl)C(=O)c2c(O)c(Cl)c(Cl)c(O)c21,2.867,0.44600001,0.353479786
+14283954,"2,3-bis(bromanyl)-5-oxidanyl-naphthalene-1,4-dione",O=C1C(Br)=C(Br)C(=O)c2c(O)cccc21,2.512,0.986000001,0.820352001
+14289874,"2-(oxan-2-yloxymethyl)cyclohexa-2,5-diene-1,4-dione",O=C1C=CC(=O)C(COC2CCCCO2)=C1,3.221,0.873000026,0.657563019
+14609896,"1-methoxy-4-oxidanyl-9,10-bis(oxidanylidene)anthracene-2-carbaldehyde",COc1c(C=O)cc(O)c2c1C(=O)c1ccccc1C2=O,2.347,0.926999986,0.788258988
+14937768,"3-bromanyl-5-methoxy-8-oxidanyl-benzo[f][1,2]benzoxazole-4,9-dione",COc1ccc(O)c2c1C(=O)c1c(Br)noc1C2=O,2.868,0.69599998,0.551541317
+14937773,"3-bromanyl-8-methoxy-5-oxidanyl-benzo[f][1,2]benzoxazole-4,9-dione",COc1ccc(O)c2c1C(=O)c1onc(Br)c1C2=O,2.868,0.68900001,0.545994231
+15061176,"5-bromanyl-2,3-dimethoxy-cyclohexa-2,5-diene-1,4-dione",COC1=C(OC)C(=O)C(Br)=CC1=O,2.777,0.897000015,0.719892345
+15061178,"2-bromanyl-6-ethyl-7-methoxy-5-oxidanyl-naphthalene-1,4-dione",CCc1c(OC)cc2c(c1O)C(=O)C=C(Br)C2=O,2.631,0.977999985,0.800764655
+15314641,"2,2-dimethyl-4-oxidanyl-3,4-dihydrothiochromene-5,8-dione",CC1(C)CC(O)C2=C(S1)C(=O)C=CC2=O,3.969,0.734000027,0.491861574
+15361939,"9-chloranyl-6-fluoranyl-4-oxidanyl-benzo[g]isoquinoline-5,10-dione",O=C1c2c(O)cncc2C(=O)c2c(Cl)ccc(F)c21,2.594,0.82099998,0.675591761
+15620928,"2,6-bis(hydroxymethyl)-1,5-bis(oxidanyl)anthracene-9,10-dione",O=C1c2ccc(CO)c(O)c2C(=O)c2ccc(CO)c(O)c21,2.538,0.882000029,0.731276024
+16118876,"2-bromanyl-9-oxidanyl-anthracene-1,4-dione",O=C1C=C(Br)C(=O)c2c1cc1ccccc1c2O,2.366,0.967999995,0.821079107
+17968950,"4-fluoranyl-3,6-di(propan-2-yl)cyclohexa-3,5-diene-1,2-dione",CC(C)C1=CC(F)=C(C(C)C)C(=O)C1=O,3.054,0.862999976,0.666044203
+18943062,"2,5-bis(phenylmethyl)-3-sulfanyl-cyclohexa-2,5-diene-1,4-dione",O=C1C=C(Cc2ccccc2)C(=O)C(S)=C1Cc1ccccc1,2.519,0.677999973,0.563568644
+19746844,"2,3,5-tris(oxidanyl)cyclohexa-2,5-diene-1,4-dione",O=C1C=C(O)C(=O)C(O)=C1O,2.943,0.808000028,0.6335618
+19753591,"2-sulfanylcyclohexa-2,5-diene-1,4-dione",O=C1C=CC(=O)C(S)=C1,3.306,0.874000013,0.650061787
+20036534,"3-methyl-3,4-dihydro-1,2-benzodioxine-5,8-dione",CC1CC2=C(OO1)C(=O)C=CC2=O,4.076,0.899999976,0.592399984
+21261927,"2-[1,1-bis(oxidanyl)propylsulfanyl]cyclohexa-2,5-diene-1,4-dione",CCC(O)(O)SC1=CC(=O)C=CC1=O,3.529,0.866999984,0.623372988
+21261928,"2-(1-hydroxyethylsulfanyl)-6-methyl-cyclohexa-2,5-diene-1,4-dione",CC1=CC(=O)C=C(SC(C)O)C1=O,3.738,0.911000013,0.633853565
+21583369,"1,4-bis(oxidanylidene)naphthalene-2-carboxamide",NC(=O)C1=CC(=O)c2ccccc2C1=O,2.269,0.972000003,0.834948002
+21650780,"2-[3,3-bis(oxidanyl)propylsulfanyl]cyclohexa-2,5-diene-1,4-dione",O=C1C=CC(=O)C(SCCC(O)O)=C1,3.166,0.684000015,0.519384012
+22494928,"1,4-bis(oxidanyl)-1,2-dihydroanthracene-9,10-dione",O=C1C2=C(C(=O)c3ccccc31)C(O)CC=C2O,3.136,0.704999983,0.537679987
+22959741,"3-propan-2-ylcyclohexa-3,5-diene-1,2-dione",CC(C)C1=CC=CC(=O)C1=O,2.901,0.967000008,0.762748117
+23341318,"3,6-bis(oxidanylidene)cyclohexa-1,4-diene-1-carboxamide",NC(=O)C1=CC(=O)C=CC1=O,2.614,0.924000025,0.75829602
+25129048,"3,7-bis(chloranyl)-6-ethyl-4,5,8-tris(oxidanyl)naphthalene-1,2-dione",CCc1c(O)c2c(c(O)c1Cl)C(=O)C(=O)C(Cl)=C2O,3.034,0.510999978,0.395513983
+45093170,"[4-(hydroxymethyl)-3,6-bis(oxidanylidene)cyclohexa-1,4-dien-1-yl]methyl ethanoate",CC(=O)OCC1=CC(=O)C(CO)=CC1=O,2.964,0.943000019,0.737216459
+53319820,"5,6,7,8-tetrakis(fluoranyl)-2-methyl-3-(2-sulfanylethoxy)naphthalene-1,4-dione",CC1=C(OCCS)C(=O)c2c(F)c(F)c(F)c(F)c2C1=O,3.124,0.902999997,0.689891998
+53473719,"2-bromanyl-3,6-dimethyl-5-(3-methyl-3-oxidanyl-butyl)cyclohexa-2,5-diene-1,4-dione",CC1=C(Br)C(=O)C(C)=C(CCC(C)(C)O)C1=O,2.987,0.899999976,0.701299981
+54299873,"2-(2-hydroxyethylsulfanyl)-5-methyl-cyclohexa-2,5-diene-1,4-dione",CC1=CC(=O)C(SCCO)=CC1=O,2.984,0.944999993,0.736679994
+54570296,"2-(2-hydroxyethylsulfanyl)-6-methyl-cyclohexa-2,5-diene-1,4-dione",CC1=CC(=O)C=C(SCCO)C1=O,2.989,0.959999979,0.747839983
+54748284,"N-(2-methylphenyl)-1-oxidanyl-3,4-bis(oxidanylidene)naphthalene-2-carboxamide",Cc1ccccc1NC(=O)C1=C(O)c2ccccc2C(=O)C1=O,2.119,0.99000001,0.866910008
+56600241,"2-bromanyl-3,6-bis(oxidanyl)-5-phenyl-cyclohexa-2,5-diene-1,4-dione",O=C1C(O)=C(c2ccccc2)C(=O)C(O)=C1Br,2.441,0.896000028,0.752540468
+56839171,"N-[4,5-bis(oxidanyl)-9,10-bis(oxidanylidene)anthracen-2-yl]-2-chloranyl-ethanamide",O=C(CCl)Nc1cc(O)c2c(c1)C(=O)c1cccc(O)c1C2=O,2.374,0.978999972,0.82953931
+57071714,"2-(2-chloroethyloxy)cyclohexa-2,5-diene-1,4-dione",O=C1C=CC(=O)C(OCCCl)=C1,2.714,0.649999976,0.526211092
+57164296,"5-[3-chloranyl-2,3-bis(oxidanyl)propyl]naphthalene-1,4-dione",O=C1C=CC(=O)c2c(CC(O)C(O)Cl)cccc21,3.596,0.861000001,0.612649334
+57256891,"2-(2-oxidanylnaphthalen-1-yl)cyclohexa-2,5-diene-1,4-dione",O=C1C=CC(=O)C(c2c(O)ccc3ccccc23)=C1,2.361,0.90200001,0.765597564
+101562315,"5,8-bis(oxidanyl)-5,8-dihydronaphthalene-1,4-dione",O=C1C=CC(=O)C2=C1C(O)C=CC2O,4.163,0.49000001,0.317792228
+118165001,"5,6-bis(oxidanylidene)-1-benzothiophene-4-carbonitrile",N#CC1=c2ccsc2=CC(=O)C1=O,3.494,0.943000019,0.681684236
+126419121,"4,5-bis(chloranyl)-2-(iminomethyl)-3,6-bis(oxidanylidene)cyclohexa-1,4-diene-1-carbonitrile",[H]/N=C/C1=C(C#N)C(=O)C(Cl)=C(Cl)C1=O,4.23,0.708999991,0.454547772
+129641006,"3,4,5-tris(bromanyl)cyclohexa-3,5-diene-1,2-dione",O=C1C=C(Br)C(Br)=C(Br)C1=O,3.222,0.912,0.686837334
+129648797,"4,5-bis(bromanyl)-3-chloranyl-6-methyl-cyclohexa-3,5-diene-1,2-dione",CC1=C(Br)C(Br)=C(Cl)C(=O)C1=O,3.253,0.855000019,0.640965014
+129710737,"pentacyclo[10.7.1.02,11.03,8.016,20]icosa-1(20),2(11),3,5,7,9,12,14,16-nonaene-18,19-dione",O=C1C=c2cccc3c2=C(C1=O)c1c-3ccc2ccccc12,2.654,0.70599997,0.576252865
+129733507,"2-nitrosocyclohexa-2,5-diene-1,4-dione",O=NC1=CC(=O)C=CC1=O,3.384,0.952000022,0.699825794
+129817754,"3,6-bis(oxidanylidene)tricyclo[6.2.1.02,7]undeca-2(7),4-diene-4,5-dicarbonitrile",N#CC1=C(C#N)C(=O)C2=C(C1=O)C1CCC2C1,4.678,0.833999991,0.493171995
+130466487,"3,4,5-tris(chloranyl)-6-methyl-cyclohexa-3,5-diene-1,2-dione",CC1=C(Cl)C(Cl)=C(Cl)C(=O)C1=O,2.948,0.855000019,0.669940015
+138676876,"5-oxidanylnaphthalene-2,3-dione",O=C1C=c2cccc(O)c2=CC1=O,2.995,0.95599997,0.744086644
+139631927,"6-chloranyl-5,8-bis(oxidanylidene)naphthalene-1,7-dicarbonitrile",N#CC1=C(Cl)C(=O)c2cccc(C#N)c2C1=O,2.779,0.859000027,0.689204355
+145639971,"N,N-diethyl-2-[3-methoxy-1,4-bis(oxidanylidene)naphthalen-2-yl]-2-methyl-propanamide",CCN(CC)C(=O)C(C)(C)C1=C(OC)C(=O)c2ccccc2C1=O,2.695,0.745999992,0.605503327
+145639974,"N,N-diethyl-2-methyl-2-[3-methyl-1,4-bis(oxidanylidene)naphthalen-2-yl]propanamide",CCN(CC)C(=O)C(C)(C)C1=C(C)C(=O)c2ccccc2C1=O,2.606,0.463999987,0.381201767
+145668076,"2,6-bis(sulfanyl)cyclohexa-2,5-diene-1,4-dione",O=C1C=C(S)C(=O)C(S)=C1,4.043,0.941999972,0.623499315
+145794756,"4,6,9,11-tetrakis(oxidanyl)-7,8-dihydrotetracene-5,12-dione",O=C1c2cccc(O)c2C(=O)c2c(O)c3c(c(O)c21)C=C(O)CC3,2.987,0.708999991,0.552468549
+145952269,"5-methoxy-2-methyl-8-oxidanyl-naphthalene-1,4-dione",COc1ccc(O)c2c1C(=O)C=C(C)C2=O,2.311,0.598999977,0.511745647
+146158126,"(7S)-2-methoxy-7-methyl-5,6,7,9,10-pentakis(oxidanyl)-6,8-dihydro-5H-anthracene-1,4-dione",COC1=CC(=O)c2c(O)c3c(c(O)c2C1=O)C[C@](C)(O)C(O)C3O,4.034,0.005,0.003314444
+146276189,"2-[(Z)-2-ethyl-1,4-bis(oxidanyl)but-1-enyl]-5-methoxy-naphthalene-1,4-dione",CC/C(CCO)=C(/O)C1=CC(=O)c2c(OC)cccc2C1=O,2.969,0.731999993,0.571854661
+146341386,"N-[[2,4,5-trimethyl-3,6-bis(oxidanylidene)cyclohexa-1,4-dien-1-yl]methyl]propanamide",CCC(=O)NCC1=C(C)C(=O)C(C)=C(C)C1=O,2.602,0.958999991,0.788297993
+146383802,"2,6-dimethoxy-3,5-bis(oxidanyl)cyclohexa-2,5-diene-1,4-dione",COC1=C(O)C(=O)C(O)=C(OC)C1=O,3.159,0.856999993,0.651415217
+146484454,"2-heptyl-3,5,6-trimethyl-cyclohexa-2,5-diene-1,4-dione",CCCCCCCC1=C(C)C(=O)C(C)=C(C)C1=O,2.381,0.823000014,0.696715234
+146506058,"2-azabicyclo[6.4.0]dodeca-1(8),2,10-trien-5-yne-9,12-dione",O=C1C=CC(=O)C2=C1CC#CC/C=N\2,4.554,0.967000008,0.585142449
+146682869,"(4R,8S)-10,16,18-tris(oxidanyl)-3,5-dioxapentacyclo[10.8.0.02,9.04,8.014,19]icosa-1,9,11,14(19),15,17-hexaene-13,20-dione",O=C1c2cc(O)cc(O)c2C(=O)c2c1cc(O)c1c2O[C@H]2OCC[C@@H]12,3.809,0.052999999,0.036458111
+146683121,"2-methoxy-6,7-dimethyl-5-oxidanyl-naphthalene-1,4-dione",COC1=CC(=O)c2c(cc(C)c(C)c2O)C1=O,2.529,0.606000006,0.503047338
+146684219,"2-methoxy-3,5,7-tris(oxidanyl)naphthalene-1,4-dione",COC1=C(O)C(=O)c2c(O)cc(O)cc2C1=O,2.75,0.953000009,0.767694452
+146684220,"2-methoxy-5-methyl-6,7-bis(oxidanyl)naphthalene-1,4-dione",COC1=CC(=O)c2c(cc(O)c(O)c2C)C1=O,2.73,0.731000006,0.590485561
+150406094,"2,7-dimethoxy-3,4,8-tris(oxidanyl)benzo[f][1]benzofuran-5,6-dione",COC1=C(O)c2cc3oc(OC)c(O)c3c(O)c2C(=O)C1=O,3.331,0.873000026,0.646893019
+151078335,"2-sulfanyl-5-(trifluoromethyl)cyclohexa-2,5-diene-1,4-dione",O=C1C=C(C(F)(F)F)C(=O)C=C1S,3.538,0.935000002,0.671330002
+151903671,"3-(diphenylmethyl)-2,5-bis(oxidanyl)cyclohexa-2,5-diene-1,4-dione",O=C1C=C(O)C(=O)C(C(c2ccccc2)c2ccccc2)=C1O,2.403,0.379999995,0.320762218
+153527514,"4-methyl-3-oxidanyl-naphthalene-1,2-dione",CC1=C(O)C(=O)C(=O)c2ccccc21,2.251,0.934000015,0.804174013
+153715085,"2-(2-hydroxyethyl)-2-methyl-4-[2,4,5-trimethyl-3,6-bis(oxidanylidene)cyclohexa-1,4-dien-1-yl]butanamide",CC1=C(C)C(=O)C(CCC(C)(CCO)C(N)=O)=C(C)C1=O,3.553,0.861999989,0.617479325
+154151983,"3,5-bis(oxidanyl)naphthalene-1,2-dione",O=C1C(=O)c2cccc(O)c2C=C1O,2.711,0.959999979,0.777493316
+154388476,"2-methyl-1,3-bis(oxidanyl)tetracene-5,12-dione",Cc1c(O)cc2c(c1O)C(=O)c1cc3ccccc3cc1C2=O,2.292,0.952000022,0.81533513
+154443726,"(2S,3R)-7-methyl-2,3,5-tris(oxidanyl)-1,2,3,4-tetrahydroanthracene-9,10-dione",Cc1cc(O)c2c(c1)C(=O)C1=C(C[C@@H](O)[C@@H](O)C1)C2=O,3.64,0.337000012,0.238146675
+154443727,"3-methoxy-7-methyl-1,6-bis(oxidanyl)anthracene-9,10-dione",COc1cc(O)c2c(c1)C(=O)c1cc(O)c(C)cc1C2=O,2.326,0.976999998,0.833055332
+154674978,"2-[1,1-bis(fluoranyl)ethyl]-5-oxidanyl-benzo[f][1]benzofuran-4,9-dione",CC(F)(F)c1cc2c(o1)C(=O)c1cccc(O)c1C2=O,2.815,0.940999985,0.751231654
+154709451,"(1R,3S)-9-methoxy-3-methyl-1,7-bis(oxidanyl)-3,4-dihydro-1H-benzo[g]isochromene-5,10-dione",COc1cc(O)cc2c1C(=O)C1=C(C[C@H](C)O[C@H]1O)C2=O,3.657,0.149000004,0.105011892
+154717121,"3,3-diethyl-1H-benzo[g]indole-2,4,5-trione",CCC1(CC)C(=O)NC2=C1C(=O)C(=O)c1ccccc12,2.777,0.722000003,0.579445113
+154732281,"6-chloranyl-7-ethyl-3-methoxy-4,5,8-tris(oxidanyl)naphthalene-1,2-dione",CCc1c(O)c2c(c(O)c1Cl)C(O)=C(OC)C(=O)C2=O,3.015,0.372000009,0.28871334
+154953170,"2-tert-butyl-3-propan-2-yl-anthracene-9,10-dione",CC(C)c1cc2c(cc1C(C)(C)C)C(=O)c1ccccc1C2=O,2.263,0.952000022,0.818402686
+154960364,"3H-1,2-benzodioxole-5,6-dione",O=C1C=C2COOC2=CC1=O,3.884,0.926999986,0.629947991
+154966862,"1,2,3,4,5,6,7,8-octakis(oxidanyl)-4a,9a-dihydroanthracene-9,10-dione",O=C1c2c(O)c(O)c(O)c(O)c2C(=O)C2C(O)=C(O)C(O)=C(O)C12,4.012,0.043000001,0.028609334
+154982721,"2-phenyl-5-sulfanyl-cyclohexa-2,5-diene-1,4-dione",O=C1C=C(c2ccccc2)C(=O)C=C1S,2.685,0.916000009,0.744504451
+155118769,"5-methyl-2-[(1S,6S)-3-methyl-6-propan-2-yl-cyclohex-2-en-1-yl]-3-oxidanyl-cyclohexa-2,5-diene-1,4-dione",CC1=C[C@@H](C2=C(O)C(=O)C(C)=CC2=O)[C@H](C(C)C)CC1,3.822,0.203999996,0.140034664
+155188357,"1-ethanoyl-5-oxidanyl-4a,9a-dihydroanthracene-9,10-dione",CC(=O)C1=CC=CC2C(=O)c3c(O)cccc3C(=O)C12,3.696,0.200000003,0.140088891
+155266701,"2-(5-methyl-3-oxidanyl-4-oxidanylidene-hexyl)cyclohexa-2,5-diene-1,4-dione",CC(C)C(=O)C(O)CCC1=CC(=O)C=CC1=O,3.391,0.683000028,0.501549687
+155289563,"3,6-dicyclohexylcyclohexa-3,5-diene-1,2-dione",O=C1C(=O)C(C2CCCCC2)=CC=C1C1CCCCC1,2.649,0.866999984,0.70814632
+155358563,"1-methyl-3,8-bis(oxidanyl)benzo[f]indole-4,9-dione",Cn1cc(O)c2c1C(=O)c1c(O)cccc1C2=O,2.723,0.888000011,0.717997343
+155375825,"7-chloranyl-4,6,8-tris(oxidanyl)-5-sulfanyl-naphthalene-1,2-dione",O=C1C=C(O)c2c(S)c(O)c(Cl)c(O)c2C1=O,3.341,0.270999998,0.200509887
+155387875,"(2R,4aS,12bS)-2,5,5-trimethyl-1,2,3,4,4a,12b-hexahydronaphtho[3,2-c]isochromene-7,12-dione",C[C@@H]1CC[C@H]2[C@H](C1)C1=C(OC2(C)C)C(=O)c2ccccc2C1=O,3.602,0.07,0.049762222
+155460011,"8,8-dimethyl-2-propan-2-yl-5,6,7,8a,9,10-hexahydro-4bH-phenanthrene-3,4-dione",CC(C)C1=CC2=C(C(=O)C1=O)C1CCCC(C)(C)C1CC2,3.926,0.079999998,0.05399111
+155476219,"2,3-dimethoxy-5-methyl-6-(3-methyl-4-oxidanyl-butan-2-yl)cyclohexa-2,5-diene-1,4-dione",COC1=C(OC)C(=O)C(C(C)C(C)CO)=C(C)C1=O,3.817,0.825999975,0.567461983
+156013664,"3-ethyl-5-oxidanyl-benzo[f][1,2]benzothiazole-4,9-dione",CCc1nsc2c1C(=O)c1c(O)cccc1C2=O,2.815,0.754999995,0.602741663
+156025281,"5-(2-bromoethyl)naphthalene-1,4-dione",O=C1C=CC(=O)c2c(CCBr)cccc21,2.575,0.98299998,0.810974984
+156238763,"6-methoxy-1,2,3-tris(oxidanyl)anthracene-9,10-dione",COc1ccc2c(c1)C(=O)c1cc(O)c(O)c(O)c1C2=O,2.291,0.959999979,0.822293315
+156238777,"1,7-bis(hydroxymethyloxy)-6-methyl-anthracene-9,10-dione",Cc1cc2c(cc1OCO)C(=O)c1c(OCO)cccc1C2=O,2.567,0.994000018,0.82093357
+156465328,"3-ethyl-1,8-bis(oxidanyl)anthracene-9,10-dione",CCc1cc(O)c2c(c1)C(=O)c1cccc(O)c1C2=O,2.258,0.989000022,0.850759797
+156582599,"2-methoxy-6-methyl-5-oxidanyl-7-[(2S)-2-oxidanylpropyl]naphthalene-1,4-dione",COC1=CC(=O)c2c(cc(C[C@H](C)O)c(C)c2O)C1=O,3.242,0.546000004,0.409985336
+156583046,"3-ethyl-1,6,8-tris(oxidanyl)-6a,12a-dihydrobenzo[a]anthracene-7,12-dione",CCc1cc(O)c2c(c1)C=C(O)C1C(=O)c3c(O)cccc3C(=O)C21,3.833,0.134000003,0.09181978
+158762688,"3-(hydroxymethyl)-1,2,5-trimethyl-indole-4,7-dione",CC1=CC(=O)c2c(c(CO)c(C)n2C)C1=O,2.827,0.547999978,0.436755983
+162345091,"2-(2-hydroxyphenyl)-6-oxidanyl-cyclohexa-2,5-diene-1,4-dione",O=C1C=C(O)C(=O)C(c2ccccc2O)=C1,2.535,0.842000008,0.698392229
+162399466,"(4aR,7S,7aR,12bS)-7,7a-dimethyl-2,3,4,4a,5,6,7,8-octahydro-1H-benzo[f]fluorene-9,12-dione",C[C@H]1CC[C@H]2CCCC[C@]23C2=C(C[C@]13C)C(=O)C=CC2=O,4.728,0.066,0.038661333
+162452047,"6-methoxy-3-methyl-1,2,3,5,8-pentakis(oxidanyl)-2,4-dihydro-1H-anthracene-9,10-dione",COc1cc(O)c2c(c1O)C(=O)C1=C(C2=O)C(O)C(O)C(C)(O)C1,4.036,0.003,0.001988
+162820894,"2-[2-oxidanylidene-2-(5-oxidanyloxan-3-yl)ethoxy]naphthalene-1,4-dione",O=C1C=C(OCC(=O)C2COCC(O)C2)C(=O)c2ccccc21,3.529,0.361000001,0.259559001
+162845997,"7-hex-1-enyl-1,3,6-tris(oxidanyl)anthracene-9,10-dione",CCCCC=Cc1cc2c(cc1O)C(=O)c1cc(O)cc(O)c1C2=O,2.701,0.967999995,0.785047996
+162859777,"7-methoxy-3,5,8-tris(oxidanyl)-2,3-dihydrobenzo[f][1]benzofuran-4,9-dione",COc1cc(O)c2c(c1O)C(=O)C1=C(C2=O)C(O)CO1,3.483,0.532000005,0.385227115
+162867221,"7,9-bis(oxidanyl)-2-prop-1-en-2-yl-1,2-dihydronaphtho[3,2-e][1]benzofuran-6,11-dione",C=C(C)C1Cc2c(ccc3c2C(=O)c2cc(O)cc(O)c2C3=O)O1,3.263,0.515999973,0.386254646
+162869486,"(3R)-3-(2-hydroxyethyl)-4,6,8-tris(oxidanyl)-2,3-dihydronaphtho[2,3-f][1]benzofuran-5,10-dione",O=C1c2cc(O)cc(O)c2C(=O)c2c1cc1c(c2O)[C@@H](CCO)CO1,3.424,0.545000017,0.398213346
+162872410,"1,3,8-trimethoxy-6-methyl-2,7-bis(oxidanyl)anthracene-9,10-dione",COc1cc2c(c(OC)c1O)C(=O)c1c(cc(C)c(O)c1OC)C2=O,2.614,0.902999997,0.741061998
+162875115,"[3-methyl-1-oxidanyl-5,8-bis(oxidanylidene)naphthalen-2-yl] ethanoate",CC(=O)Oc1c(C)cc2c(c1O)C(=O)C=CC2=O,2.652,0.986999989,0.805830657
+162883260,"6-methoxy-3,5-bis(oxidanyl)-2-prop-1-en-2-yl-2,3-dihydrobenzo[f][1]benzofuran-4,9-dione",C=C(C)C1OC2=C(C(=O)c3c(ccc(OC)c3O)C2=O)C1O,3.832,0.114,0.078128
+162888035,"2,3-dimethoxy-5-oxidanyl-9,10-dihydrophenanthrene-1,4-dione",COC1=C(OC)C(=O)C2=C(CCc3cccc(O)c32)C1=O,2.848,0.256000012,0.203434676
+162891337,"(3R)-7-methoxy-3-methyl-3,10-bis(oxidanyl)-1,4-dihydrobenzo[g]isochromene-6,9-dione",COC1=CC(=O)c2c(cc3c(c2O)CO[C@@](C)(O)C3)C1=O,3.733,0.210999995,0.14692633
+162894060,"2-methoxy-7-methyl-6,7,10-tris(oxidanyl)-6,8-dihydro-5H-anthracene-1,4-dione",COC1=CC(=O)c2c(cc3c(c2O)CC(O)C(C)(O)C3)C1=O,3.848,0.108000003,0.073824002
+162903921,"(4aS,12bS)-2,5,5-trimethyl-9-oxidanyl-3,4,4a,12b-tetrahydronaphtho[3,2-c]isochromene-7,12-dione",CC1=C[C@@H]2C3=C(OC(C)(C)[C@H]2CC1)C(=O)c1cc(O)ccc1C3=O,3.699,0.193000004,0.135121447
+162905364,"(1R,3R)-5,7-dimethoxy-1,3-dimethyl-8,10-bis(oxidanyl)-3,4-dihydro-1H-benzo[g]isochromene-6,9-dione",COC1=C(O)C(=O)c2c(O)c3c(c(OC)c2C1=O)C[C@@H](C)O[C@@H]3C,3.911,0.035,0.023679445
+162908866,"1-(hydroxymethyl)-6-methyl-6-oxidanyl-2,7,8,9-tetrahydro-1H-naphtho[1,2-g][1]benzofuran-10,11-dione",CC1(O)CCCc2c1ccc1c2C(=O)C(=O)C2=C1OCC2CO,4.091,0.536000013,0.351913787
+162908868,"(1S,6S)-1-(hydroxymethyl)-6-methyl-6-oxidanyl-2,7,8,9-tetrahydro-1H-naphtho[1,2-g][1]benzofuran-10,11-dione",C[C@]1(O)CCCc2c1ccc1c2C(=O)C(=O)C2=C1OC[C@@H]2CO,4.091,0.536000013,0.351913787
+162921802,"8-methoxy-1,3-dimethyl-7,10-bis(oxidanyl)-1H-benzo[g]isochromene-6,9-dione",COC1=C(O)C(=O)c2cc3c(c(O)c2C1=O)C(C)OC(C)=C3,3.872,0.222000003,0.151157335
+162928593,"2,15,18-tris(oxidanyl)-7,9-dioxapentacyclo[10.8.0.03,10.04,8.014,19]icosa-1,3(10),5,11,14,16,18-heptaene-13,20-dione",O=C1c2cc3c(c(O)c2C(=O)c2c(O)ccc(O)c21)C1C=COC1O3,3.855,0.039000001,0.026628334
+162932859,"2-methoxy-5-[(2R)-7-methoxy-8-methyl-5-oxidanyl-4-oxidanylidene-2,3-dihydrochromen-2-yl]cyclohexa-2,5-diene-1,4-dione",COC1=CC(=O)C([C@H]2CC(=O)c3c(O)cc(OC)c(C)c3O2)=CC1=O,3.53,0.256999999,0.184754444
+162934182,"6-(4-methyl-5-oxidanyl-pent-3-enyl)-2,3-bis(oxidanyl)anthracene-9,10-dione",CC(=CCCc1ccc2c(c1)C(=O)c1cc(O)c(O)cc1C2=O)CO,2.635,0.243000001,0.198855001
+162942764,"(4bS,8aR)-8,8-dimethyl-1-oxidanyl-2-propan-2-yl-5,6,7,8a-tetrahydro-4bH-phenanthrene-3,4-dione",CC(C)C1=C(O)C2=C(C(=O)C1=O)[C@H]1CCCC(C)(C)[C@@H]1C=C2,4.112,0.097000003,0.063459557
+162943215,"(2R)-2-[(1S)-1-oxidanylethyl]-2,3-dihydrobenzo[f][1]benzofuran-4,9-dione",C[C@H](O)[C@H]1CC2=C(O1)C(=O)c1ccccc1C2=O,3.368,0.335999995,0.247594663
+162953175,"2-methyl-5-[(2S)-6-methylhept-5-en-2-yl]-3-oxidanyl-cyclohexa-2,5-diene-1,4-dione",CC(C)=CCC[C@H](C)C1=CC(=O)C(C)=C(O)C1=O,3.526,0.783999979,0.563957319
+162959982,"3-methoxy-7-methyl-6,7,9,10-tetrakis(oxidanyl)-6,8-dihydro-5H-anthracene-1,4-dione",COC1=CC(=O)c2c(O)c3c(c(O)c2C1=O)CC(O)C(C)(O)C3,3.895,0.016000001,0.010853334
+162960164,"2-methyl-3-oxidanyl-5-(1,2,2-trimethylcyclopentyl)cyclohexa-2,5-diene-1,4-dione",CC1=C(O)C(=O)C(C2(C)CCCC2(C)C)=CC1=O,3.688,0.358999997,0.251778665
+162962930,"(3S)-3,10,10,13-tetramethyl-3-oxidanyl-6,11-dioxatetracyclo[7.6.1.02,7.012,16]hexadeca-1(16),2(7),4,8,12-pentaene-14,15-dione",CC1=C2OC(C)(C)c3cc4c(c(c32)C(=O)C1=O)[C@@](C)(O)C=CO4,4.274,0.202000007,0.128516893
+162963665,"4,8,12-trimethyl-4,6-bis(oxidanyl)-2-oxatricyclo[7.3.1.05,13]trideca-1(12),5,7,9(13)-tetraene-10,11-dione",CC1=C2OCC(C)(O)c3c(O)cc(C)c(c32)C(=O)C1=O,3.853,0.40200001,0.274566007
+162965230,"7-methyl-8-[(2R)-4-methyl-2-oxidanyl-pent-3-enyl]-3-propan-2-yl-naphthalene-1,2-dione",CC(C)=C[C@H](O)Cc1c(C)ccc2c1C(=O)C(=O)C(C(C)C)=C2,3.621,0.425999999,0.301939333
+162966851,"18-methoxy-2-oxidanyl-7,9-dioxapentacyclo[10.8.0.03,10.04,8.014,19]icosa-1,3(10),5,11,14(19),15,17-heptaene-13,20-dione",COc1cccc2c1C(=O)c1c(cc3c(c1O)C1C=COC1O3)C2=O,3.65,0.159999996,0.112888886
+162976269,"4-methoxy-6-methyl-10-oxidanyl-6,8-dihydro-[2]benzofuro[5,6-f][1,3]benzodioxole-5,9-dione",COc1c2c(c(O)c3c1C(=O)C1=C(COC1C)C3=O)OCO2,3.726,0.409999996,0.285815553
+162982307,"10-oxidanyl-7-prop-1-en-2-yl-[1]benzofuro[5,6-f][1]benzofuran-5,9-dione",C=C(C)c1cc2c(o1)C(=O)c1c(cc3ccoc3c1O)C2=O,3.248,0.593999982,0.445631986
+162984232,"3-ethanoyl-6-methyl-4,5,7,8-tetrakis(oxidanyl)naphthalene-1,2-dione",CC(=O)C1=C(O)c2c(O)c(C)c(O)c(O)c2C(=O)C1=O,2.917,0.184,0.144808
+162989456,"(4bS,8aR)-4b,8,8-trimethyl-1-oxidanyl-2-prop-2-enyl-5,6,7,8a-tetrahydrophenanthrene-3,4-dione",C=CCC1=C(O)C2=C(C(=O)C1=O)[C@@]1(C)CCCC(C)(C)[C@H]1C=C2,4.3,0.017000001,0.010766667
+162990691,"3-(hydroxymethyl)-6-propan-2-yl-6,7-dihydro-5H-furo[3,2-g]chromene-4,9-dione",CC(C)C1COC2=C(C1)C(=O)c1c(CO)coc1C2=O,3.962,0.224000007,0.150279116
+162991807,"(2S)-8-methoxy-2,4-dimethyl-5-oxidanyl-2,3-dihydrobenzo[g][1]benzofuran-6,9-dione",COC1=CC(=O)c2c(O)c(C)c3c(c2C1=O)O[C@@H](C)C3,3.38,0.125,0.091944444
+163000816,"1-methoxy-11-oxidanyl-8-[(1R)-1-oxidanylethyl]tetracene-5,12-dione",COc1cccc2c1C(=O)c1c(cc3cc([C@@H](C)O)ccc3c1O)C2=O,2.804,0.834999979,0.667628872
+163001810,"3-ethyl-4,5,7,8-tetrakis(oxidanyl)naphthalene-1,2-dione",CCC1=C(O)c2c(O)cc(O)c(O)c2C(=O)C1=O,2.92,0.906000018,0.712720014
+163007622,"(2R)-7-methoxy-5-oxidanyl-2-prop-1-en-2-yl-2,3-dihydrobenzo[f][1]benzofuran-4,9-dione",C=C(C)[C@H]1CC2=C(O1)C(=O)c1cc(OC)cc(O)c1C2=O,3.429,0.711000025,0.519109018
+163007623,"(2S)-7-methoxy-5-oxidanyl-2-prop-1-en-2-yl-2,3-dihydrobenzo[f][1]benzofuran-4,9-dione",C=C(C)[C@@H]1CC2=C(O1)C(=O)c1cc(OC)cc(O)c1C2=O,3.429,0.711000025,0.519109018
+163012221,"(1S,3R,4R)-8-methoxy-3-methyl-1,4-bis(oxidanyl)-1,2,3,4-tetrahydrobenzo[a]anthracene-7,12-dione",COc1cccc2c1C(=O)c1ccc3c(c1C2=O)[C@@H](O)C[C@@H](C)[C@H]3O,3.569,0.112999998,0.080744776
+163013386,"methyl 1,3-dimethyl-8-oxidanyl-9,10-bis(oxidanylidene)anthracene-2-carboxylate",COC(=O)c1c(C)cc2c(c1C)C(=O)c1c(O)cccc1C2=O,2.352,0.866999984,0.73675732
+163016202,"2,3,3-trimethyl-7,8-bis(oxidanyl)-2H-benzo[f][1]benzofuran-4,9-dione",CC1OC2=C(C(=O)c3ccc(O)c(O)c3C2=O)C1(C)C,3.51,0.486000001,0.350460001
+163024502,"(6R,7R)-6-ethenyl-7-prop-1-en-2-yl-5,6,7,8-tetrahydronaphthalene-1,4-dione",C=C[C@H]1CC2=C(C[C@H]1C(=C)C)C(=O)C=CC2=O,4.195,0.215000004,0.138675002
+163025037,"[2,4,5,7-tetrakis(oxidanyl)-9,10-bis(oxidanylidene)anthracen-1-yl] ethanoate",CC(=O)Oc1c(O)cc(O)c2c1C(=O)c1cc(O)cc(O)c1C2=O,2.734,0.814999998,0.657976665
+163028490,"(1S,3S)-8-methoxy-3-methyl-1,6-bis(oxidanyl)-1,2,3,4-tetrahydrobenzo[a]anthracene-7,12-dione",COc1cccc2c1C(=O)c1c(O)cc3c(c1C2=O)[C@@H](O)C[C@@H](C)C3,3.375,0.086000003,0.063305558
+163034795,"6-methoxy-5,8-bis(oxidanyl)-3-[(1S)-1-oxidanylethyl]benzo[f][2]benzofuran-4,9-dione",COc1cc(O)c2c(c1O)C(=O)c1c(coc1[C@H](C)O)C2=O,3.405,0.294,0.215436666
+163040457,"3,7-dimethoxy-1,6-bis(oxidanyl)anthracene-9,10-dione",COc1cc(O)c2c(c1)C(=O)c1cc(O)c(OC)cc1C2=O,2.28,0.976000011,0.837191121
+163052758,"3-methyl-3,5,9,10-tetrakis(oxidanyl)-1,4-dihydrobenzo[g]isochromene-6,7-dione",CC1(O)Cc2c(O)c3c(c(O)c2CO1)C(O)=CC(=O)C3=O,3.906,0.075999998,0.051460443
+163069232,"1-methoxy-2,4,5,7-tetrakis(oxidanyl)anthracene-9,10-dione",COc1c(O)cc(O)c2c1C(=O)c1cc(O)cc(O)c1C2=O,2.613,0.938000023,0.769889575
+163069910,"2,3-bis(chloranyl)-6-methyl-5,7,8-tris(oxidanyl)naphthalene-1,4-dione",Cc1c(O)c(O)c2c(c1O)C(=O)C(Cl)=C(Cl)C2=O,2.821,0.328000009,0.261634674
+163080913,"1,3,7-trimethoxy-6-methyl-2-oxidanyl-anthracene-9,10-dione",COc1cc2c(cc1C)C(=O)c1cc(OC)c(O)c(OC)c1C2=O,2.369,0.967999995,0.82075644
+163085834,"(3R)-3-methyl-4,8-bis(oxidanyl)-3,4-dihydro-2H-benzo[a]anthracene-1,7,12-trione",C[C@@H]1CC(=O)c2c(ccc3c2C(=O)c2cccc(O)c2C3=O)C1O,3.385,0.323000014,0.23740501
+163086687,"(5R,8S)-3,8-dimethyl-4-oxidanyl-5-propan-2-yl-5,6,7,8-tetrahydronaphthalene-1,2-dione",CC1=C(O)C2=C(C(=O)C1=O)[C@@H](C)CC[C@@H]2C(C)C,3.9,0.569999993,0.386333328
+163090819,"(6R,8S)-11-methoxy-6,8-dimethyl-4-oxidanyl-8,9-dihydro-6H-[1,3]benzodioxolo[6,5-g]isochromene-5,10-dione",COc1c2c(c(O)c3c1C(=O)C1=C(C3=O)[C@@H](C)O[C@@H](C)C1)OCO2,3.964,0.028000001,0.018778667
+163093725,"(5R,8R)-3,8-dimethyl-5-propan-2-yl-5,6,7,8-tetrahydronaphthalene-1,2-dione",CC1=CC2=C(C(=O)C1=O)[C@H](C)CC[C@@H]2C(C)C,3.917,0.472000003,0.319019557
+163101082,"(1R,9S,16S)-9-methyl-15-oxatetracyclo[7.6.1.02,7.013,16]hexadeca-2(7),4,10,12-tetraene-3,6-dione",C[C@@]12C=CC=C3CO[C@@H](C4=C(C1)C(=O)C=CC4=O)[C@H]32,4.735,0.090000004,0.052650002
+163108289,"4-(4-hydroxyphenyl)-1-oxidanyl-2H-isoquinoline-3,7,8-trione",O=C1C=Cc2c(c(O)[nH]c(=O)c2-c2ccc(O)cc2)C1=O,2.846,0.666999996,0.530190885
+163184325,"(1R,3S)-7-methoxy-1,3-dimethyl-8,10-bis(oxidanyl)-3,4-dihydro-1H-benzo[g]isochromene-6,9-dione",COC1=C(O)C(=O)c2c(cc3c(c2O)[C@@H](C)O[C@@H](C)C3)C1=O,3.866,0.079999998,0.054524443
+163187804,"(1R,2R,3S)-6-methoxy-3-methyl-1,2,3,5,8-pentakis(oxidanyl)-2,4-dihydro-1H-anthracene-9,10-dione",COc1cc(O)c2c(c1O)C(=O)C1=C(C2=O)[C@@H](O)[C@@H](O)[C@@](C)(O)C1,4.036,0.003,0.001988
+163192670,"2-methoxy-1-methyl-3,4-bis(oxidanyl)anthracene-9,10-dione",COc1c(C)c2c(c(O)c1O)C(=O)c1ccccc1C2=O,2.302,0.575999975,0.492671979
+163287094,"7-bromanyl-1,2-bis(oxidanyl)anthracene-9,10-dione",O=C1c2ccc(Br)cc2C(=O)c2c1ccc(O)c2O,2.2,0.975000024,0.845000021
+163576855,"2,3-dimethoxy-5-methyl-6-sulfanyl-cyclohexa-2,5-diene-1,4-dione",COC1=C(OC)C(=O)C(S)=C(C)C1=O,3.174,0.856000006,0.649228449
